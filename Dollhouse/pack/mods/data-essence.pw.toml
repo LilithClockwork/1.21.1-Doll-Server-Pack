@@ -1,0 +1,13 @@
+name = "Halcyon | Data & Essence"
+filename = "Halcyon-v0.4.2+aria-of-the-moon.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14915ea3eda9243b0265f7db144903a78d353285"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8624235
+project-id = 1189360

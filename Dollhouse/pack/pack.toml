@@ -1,0 +1,13 @@
+name = "Dollhouse"
+author = "Lilith"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0a2b2f4a842a28ea2c1c52841befe993e8c342d58f088c774d15beebb8bd2423"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"
