@@ -41,6 +41,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "ab919e8dbd9fa214ee8498a8e0f6714e9f401afbad4f259a4bdeaf1f07263c6b"
+metafile = true
+
+[[files]]
 file = "mods/cybernetics-vanity.pw.toml"
 hash = "a7e7bb90a0a16a49bcaeeecab04a135f335ad29e11d572a036416e887db904b4"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "a3a8e7c14c08cf3f12bf94f3efa86cc3b001fe4658540d94d687f18adc4fc9f4"
 metafile = true
 
 [[files]]
