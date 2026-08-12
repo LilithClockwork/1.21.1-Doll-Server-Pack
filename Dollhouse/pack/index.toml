@@ -141,6 +141,11 @@ hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
 metafile = true
 
 [[files]]
+file = "mods/neoorigins.pw.toml"
+hash = "f3ad5d7139665fe14b8f5ab4c8d66b47d7ea5cd56d3cda8e1901c69a98f83878"
+metafile = true
+
+[[files]]
 file = "mods/pastel.pw.toml"
 hash = "bdddda36c259addde0e8c6683f3d90aed915e8d13f9dfe98503388293d353c48"
 metafile = true
