@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_data/datapacks_go_here"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/dollpack/recipe/netheriteqpu.json"
+hash = "75ab2bae65cf33923f87cb5366785beaff39bedc4b488f333c9d89daa73c12bc"
+
+[[files]]
+file = "global_packs/required_data/dollpack/pack.mcmeta"
+hash = "d1ece6b121d85f90828ce99f2e0241430bba6f9709869d06ed99fea86826a4d5"
+
+[[files]]
+file = "global_packs/required_resources/resourcepacks_go_here"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/alchemancy.pw.toml"
 hash = "bf25d280ec62a7f03be94edbd9487051f3bcf4bce9a8a12f021a2037a1fe2317"
 metafile = true
@@ -138,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
 metafile = true
 
 [[files]]

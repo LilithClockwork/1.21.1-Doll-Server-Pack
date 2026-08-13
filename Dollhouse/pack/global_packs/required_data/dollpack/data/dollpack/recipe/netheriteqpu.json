@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "show_notification": false,
+  "pattern": [
+    "GGG",
+    "GPG",
+    "GNG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "P": {
+      "item": "createcybernetics:netherite_qpu"
+    }
+  },
+  "result": {
+    "id": "createcybernetics:netherite_qpu",
+    "count": 2
+  }
+}
