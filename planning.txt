@@ -1,10 +1,8 @@
 Mods: 
-Refined Storage & Addons
 Immersive Engineering
 Create & Aeronautics + Addons, Barehanded
 The Corvids' Ocean Mods...
 NeoSync OR Switchy + Connector
-Farmer's Delight & Addons
 Silent Gear
 
 Datapacks:

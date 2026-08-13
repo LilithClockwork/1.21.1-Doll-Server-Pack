@@ -112,6 +112,11 @@ hash = "255fab3281eaf50589f7009c1887b2f9e638a6512e2fab7ffa1a967bf760bfa9"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-delight.pw.toml"
+hash = "f6cac852e4738f08e9402a58f02fda8d2ac004ed6badcae8f3fd52adfe91a64a"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "9237b88b063c87c5f4b5a79c5ff8a7c287537f3deabe04027efee8298ac380dd"
 metafile = true
@@ -159,6 +164,11 @@ metafile = true
 [[files]]
 file = "mods/fantastic-wings.pw.toml"
 hash = "7ba3fc3d4969de8adb738380d98ebf2ed73baaaf7ba0af5cf74335dc0adf3e58"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
 metafile = true
 
 [[files]]
@@ -237,6 +247,11 @@ hash = "9937e9a35461a0d55b574bb3e363c342b033a937f3e99365697886df6ce5ba73"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "ceca044e7cabf16b147a79c0800235249d26a95075058970c77957b1a1054d3c"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
 metafile = true
@@ -284,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "2c257ee5f2c8a3454e423610b61d113cf736c86b7b1f5079dc8e119346a0d7a0"
+metafile = true
+
+[[files]]
+file = "mods/runiclib.pw.toml"
+hash = "50247b958259e240e9892ce22158f651f7b569c8ea51f345532451f07db810eb"
 metafile = true
 
 [[files]]
