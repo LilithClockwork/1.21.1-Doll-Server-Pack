@@ -272,6 +272,21 @@ hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-emi-integration.pw.toml"
+hash = "9d1a63a82efecfe15d459532dc8d41d59c4d0191036c60ee4a1a0731e3c1cf8d"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "d820a5387d1c0a667fab73d13d007352f30c789a02ce3fee46a556bd2fe9cc15"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "2c257ee5f2c8a3454e423610b61d113cf736c86b7b1f5079dc8e119346a0d7a0"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
