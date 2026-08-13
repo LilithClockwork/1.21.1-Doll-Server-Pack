@@ -1,12 +1,15 @@
 Mods: 
 Refined Storage & Addons
 Immersive Engineering
-Create & Aeronautics + Addons 
+Create & Aeronautics + Addons, Barehanded
 The Corvids' Ocean Mods...
 NeoSync OR Switchy + Connector
 Farmer's Delight & Addons
-Iron's Spells, Magic of Color, Cybernetics ISS Addon
+Iron's Spells, Magic of Color
 Silent Gear
+Witchery (packwiz url add witchery-resurrected https://beta-server-jars.msrandom.net/witchery-resurrected-0.6.0-beta-18.jar)
+Clumps
+Controlling
 
 Datapacks:
 Recipe for duping Netherite Quantum Processors.
