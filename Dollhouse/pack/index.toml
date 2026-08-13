@@ -295,3 +295,8 @@ metafile = true
 file = "mods/weavers-paradise.pw.toml"
 hash = "6a4b046e2bef48a5a4cd1bf33ce750ad628d2ba307ea2682f2d58b1617cfc1c5"
 metafile = true
+
+[[files]]
+file = "mods/witchery-resurrected.pw.toml"
+hash = "5d9703c563a5447048eb4315729c8b8e14b0b62b03041fcbdc0109294c040bd7"
+metafile = true
