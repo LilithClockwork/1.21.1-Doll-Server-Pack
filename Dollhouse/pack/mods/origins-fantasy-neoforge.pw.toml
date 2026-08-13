@@ -1,0 +1,13 @@
+name = "Origins Fantasy [NeoForge]"
+filename = "Origins-Fantasy-1.21.1-NeoForge-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0cdf64b7eb925c039e14edaeaa1e7163ee2d4be9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8361713
+project-id = 1578550

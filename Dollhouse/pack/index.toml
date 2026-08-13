@@ -177,6 +177,11 @@ hash = "047c8620059e1044e547a23cf239d8bcd182f1d9d0584131aec29df6f7c65d8b"
 metafile = true
 
 [[files]]
+file = "mods/jupiter.pw.toml"
+hash = "a3d803079f7cba47f9d6bf728198f2c335a13938ef50bbdaa3f7ae2457bef58d"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
 metafile = true
@@ -197,13 +202,18 @@ hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
 metafile = true
 
 [[files]]
-file = "mods/neoorigins.pw.toml"
-hash = "f3ad5d7139665fe14b8f5ab4c8d66b47d7ea5cd56d3cda8e1901c69a98f83878"
+file = "mods/origins-fantasy-neoforge.pw.toml"
+hash = "e4f150f11cbe3b0c546c7f2a99b449349605992d70477a5b74e7c5bd917f683d"
+metafile = true
+
+[[files]]
+file = "mods/origins-neoforge.pw.toml"
+hash = "f94ed260bea7bc8fc6df8eb97eca31b212949d3c493c5934a22ac2754af16cfa"
 metafile = true
 
 [[files]]
 file = "mods/pastel.pw.toml"
-hash = "bdddda36c259addde0e8c6683f3d90aed915e8d13f9dfe98503388293d353c48"
+hash = "889ace4fe70354e354bae0f9b11ef9342fdb262f4e0cb57e36071402184cd054"
 metafile = true
 
 [[files]]
