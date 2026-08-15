@@ -147,6 +147,11 @@ hash = "08b5fe6bbf5980820af8addc37e5ee41e48756400d86f9f554222f27b3ccecb5"
 metafile = true
 
 [[files]]
+file = "mods/eternal-starlight.pw.toml"
+hash = "769276e0e7b90387491629bb0d50fea4908951a04c194800efae869ea6518e35"
+metafile = true
+
+[[files]]
 file = "mods/exclusions-lib.pw.toml"
 hash = "b9363f3ba7f2ac384cca83c42054485d1b6473d114064cf3aec7933924932bc2"
 metafile = true
