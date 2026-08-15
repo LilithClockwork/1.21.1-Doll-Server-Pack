@@ -292,6 +292,11 @@ hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "719c1b11d3c9f3204f85a36815b298e84aad29c2e98ec77eb0a07d1ba2783eff"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-emi-integration.pw.toml"
 hash = "9d1a63a82efecfe15d459532dc8d41d59c4d0191036c60ee4a1a0731e3c1cf8d"
 metafile = true
@@ -339,4 +344,9 @@ metafile = true
 [[files]]
 file = "mods/witchery-resurrected.pw.toml"
 hash = "5d9703c563a5447048eb4315729c8b8e14b0b62b03041fcbdc0109294c040bd7"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
