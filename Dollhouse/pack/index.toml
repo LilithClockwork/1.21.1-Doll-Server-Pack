@@ -327,6 +327,16 @@ hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "755810e71ed93c8c9b992a6163b5c3fe8fe27c5b46d075123e892f2d69a8b46c"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "c69dcffbc7e5fd5a78a8292d696d589be53e9a6c3edbb8317d9fc441b54589f9"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
 metafile = true
