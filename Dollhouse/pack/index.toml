@@ -67,6 +67,11 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
@@ -252,6 +257,11 @@ hash = "a3a8e7c14c08cf3f12bf94f3efa86cc3b001fe4658540d94d687f18adc4fc9f4"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "704888446d5c1e5a5320ae191ab26346f9b41f3564f601d251ac1a294fa3581e"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
 metafile = true
@@ -347,6 +357,11 @@ hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
 metafile = true
 
 [[files]]
+file = "mods/neosync.pw.toml"
+hash = "0c4d176baa42d884cd064943791b71d9838f891dc9bad50b7b324b7706dd865c"
+metafile = true
+
+[[files]]
 file = "mods/origins-fantasy-neoforge.pw.toml"
 hash = "e4f150f11cbe3b0c546c7f2a99b449349605992d70477a5b74e7c5bd917f683d"
 metafile = true
@@ -439,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "c9e89c2a117b070d48c93db27959481aff7f74be0988ac9795214ab79e948625"
 metafile = true
 
 [[files]]

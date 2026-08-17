@@ -1,8 +1,5 @@
 Mods: 
-Immersive Engineering
-Create & Aeronautics + Addons, Barehanded
 The Corvids' Ocean Mods...
-NeoSync OR Switchy + Connector
 
 Datapacks:
 Recipe for Origin changing orb.
