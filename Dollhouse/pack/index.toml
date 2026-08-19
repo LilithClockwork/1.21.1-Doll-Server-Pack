@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/createcybernetics-common.toml"
+hash = "62613b4d0e4d9399c6370a103af9a3294637154e038c0731a8aa7229d67a44a9"
+
+[[files]]
+file = "config/cyberneticsvanity-server.toml"
+hash = "69f086af238fd31c649a4f3318ddff9c9c408367b3eb9c2297c1053c186fb66b"
+
+[[files]]
 file = "global_packs/required_data/datapacks_go_here"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -32,6 +40,11 @@ hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "9f4c82355a37e196e66eb74d83ae28b5bfd6fa76cf2146db4dedfae5837dbe20"
 metafile = true
@@ -44,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/barehanded.pw.toml"
 hash = "5d05e5e990988ba5d24892bebf3a16abd6e92fee45526db154894816e25da7b3"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
@@ -384,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
