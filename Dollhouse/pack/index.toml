@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/pastel.pw.toml"
-hash = "aef91b49956d6a5ddb71b2b0b8b60fffb045de7af8ebd9ec8946b2d579ed8f4c"
+hash = "8e14eb148f712f61654cf2940f8ff05f9d9deafded485b426e15bebe51ce3544"
 metafile = true
 
 [[files]]
