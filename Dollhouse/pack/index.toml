@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/createcybernetics-common.toml"
-hash = "62613b4d0e4d9399c6370a103af9a3294637154e038c0731a8aa7229d67a44a9"
+hash = "56b6f5e3bcc2b43985b89805ec6dca39661b18f9ff56a9657a75774abb9baea7"
 
 [[files]]
 file = "config/cyberneticsvanity-server.toml"
