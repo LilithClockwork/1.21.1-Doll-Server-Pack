@@ -535,6 +535,11 @@ hash = "1c7818890dda9f6d9eeba4642b83a6cbd5c7913acc2738b1c5ee092ee4aefe2e"
 metafile = true
 
 [[files]]
+file = "mods/thaumon.pw.toml"
+hash = "d8e6d54237412c135080aebf255787054523c962a154fce1afa8fc3fbb2adfc2"
+metafile = true
+
+[[files]]
 file = "mods/treechop.pw.toml"
 hash = "da1c1cf28e8d5ffe377998d29d59eae29a2020f2de7a0aea7f7253acdc695cfd"
 metafile = true
