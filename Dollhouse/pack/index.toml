@@ -35,6 +35,16 @@ hash = "bf25d280ec62a7f03be94edbd9487051f3bcf4bce9a8a12f021a2037a1fe2317"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture-delight.pw.toml"
+hash = "918cbc479cfc5c66ee234bc3f71ee584c1ab596f0d88aaa59bf66ca3b404c5db"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "fbbea448bb6a8bdab5d9f10fb5d27d177a0e7998fb4d797287f0a83b6f89e6d2"
+metafile = true
+
+[[files]]
 file = "mods/atlas-api.pw.toml"
 hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
 metafile = true
@@ -57,6 +67,16 @@ metafile = true
 [[files]]
 file = "mods/barehanded.pw.toml"
 hash = "5d05e5e990988ba5d24892bebf3a16abd6e92fee45526db154894816e25da7b3"
+metafile = true
+
+[[files]]
+file = "mods/bens-sharks.pw.toml"
+hash = "4455b4d54333518d2dda9f59a1ebf962d320b87806a4f558cf5b8a9007fd18c8"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "f53d98dc09fb5abb52798e5dfd25297d85a290e1e4874d8208b981654799121e"
 metafile = true
 
 [[files]]
@@ -300,6 +320,16 @@ hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "07f182f33a9590fd17bdbf52652d7d471aa1c4d71d3542b9b9f5dec1ad9e59ab"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-delights.pw.toml"
+hash = "cfaa82c02e92a22f1fd0377b95e27d4bc1b2896fc8d84a0a27e3761095d58f68"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "901106fc6fcb4dcb86c13dd8c1dfb0d26e048387fec5bd610d06082242bd786a"
 metafile = true
@@ -347,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "1230e34068ee372b6991b094e2265c5b4a0d3b99df900df682a3f7e10c5db0ec"
 metafile = true
 
 [[files]]
