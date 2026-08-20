@@ -385,6 +385,11 @@ hash = "1230e34068ee372b6991b094e2265c5b4a0d3b99df900df682a3f7e10c5db0ec"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "0a82d90319b9ba9b5c9fa586a6fca0e2510c2617a9710e6aa738426c1ee87c1e"
+metafile = true
+
+[[files]]
 file = "mods/magic-of-color.pw.toml"
 hash = "d0a0038979863a2d711146e982a359f3950be71fa1b55d71119d93d7eaccc949"
 metafile = true
