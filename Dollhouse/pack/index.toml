@@ -535,6 +535,11 @@ hash = "da1c1cf28e8d5ffe377998d29d59eae29a2020f2de7a0aea7f7253acdc695cfd"
 metafile = true
 
 [[files]]
+file = "mods/underwater-village.pw.toml"
+hash = "c01c1d21a521b060c536eb8b886c3087ca7d7527eede2d378ffe2fcf5db67e8c"
+metafile = true
+
+[[files]]
 file = "mods/vortylib.pw.toml"
 hash = "37546d57289b64ceabe9dbee82523e119846bcab7fd1524417a47182ab7ffc11"
 metafile = true
