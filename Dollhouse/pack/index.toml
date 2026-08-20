@@ -295,6 +295,11 @@ hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "901106fc6fcb4dcb86c13dd8c1dfb0d26e048387fec5bd610d06082242bd786a"
 metafile = true
@@ -507,6 +512,16 @@ metafile = true
 [[files]]
 file = "mods/witchery-resurrected.pw.toml"
 hash = "5d9703c563a5447048eb4315729c8b8e14b0b62b03041fcbdc0109294c040bd7"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "03b30d68893aff0507d36044ab3b43e586f4412274b5de0abe193b9f4a754905"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "210cce3a74344d8ccbe0023ea0399b5573c5e622ae970d0cf81b753b18f1fc3f"
 metafile = true
 
 [[files]]
