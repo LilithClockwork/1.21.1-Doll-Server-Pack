@@ -1,13 +1,8 @@
-name = "Pastel"
-filename = "Pastel-1.1.5.5.jar"
+name = "pastel"
+filename = "Pastel-1.2.0-test.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "53a582520b78aebd56c9be1fd041472047dca3d3"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7591337
-project-id = 1264556
+url = "https://raw.githubusercontent.com/KatTheFox/prismatic-pantheon/refs/heads/main/mods/Pastel-1.2.0-test.jar"
+hash-format = "sha256"
+hash = "3d601fefa67199bf2cc72c22ea1c0b37dac4c8aa4504e91765adf14b8b541efc"
