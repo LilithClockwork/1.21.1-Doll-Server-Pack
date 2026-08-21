@@ -18,7 +18,7 @@ hash = "1cb19a341b66d4a950ed7a9f5f186e2934e5625651b3ad9f9ccc90441911d14e"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "95964b500ffc008534f9eae8ca265e4cc4bb04359911b26eccd45e092611772a"
+hash = "f3e7c0a45be5ebf50767d15776f733eda5374c6477cfc716fef7769c0593aa3e"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/c/tags/item/nuggets/copper.json"
