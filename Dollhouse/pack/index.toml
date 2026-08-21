@@ -17,6 +17,10 @@ file = "config/immersiveengineering-startup.toml"
 hash = "b5b50d355bfff3aaebaeb1267506eab716f811e5e78fc965b2c30eb37ffaa180"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "9bf00615c083cd795d78501fbcf2b571c801d2f7960c4c28c284d93cc0da0060"
+
+[[files]]
 file = "global_packs/required_data/dollfilters/data/required.document"
 hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
