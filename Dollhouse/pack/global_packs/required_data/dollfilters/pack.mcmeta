@@ -1,0 +1,110 @@
+{
+  "pack": {
+    "description": "Dollpack filters",
+    "pack_format": 48
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "silentgear",
+        "path": "recipe/grip_blueprint_alt"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "recipe/crafting/copper_ingot_to_nugget_copper"
+      },
+      {
+        "namespace": "create",
+        "path": "recipes/crafting/materials/copper_nugget"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "recipe/bamboo_basket"
+      },
+      {
+        "namespace": "halcyon",
+        "path": "recipe/crafting/emerald_from_shards"
+      },
+      {
+        "namespace": "silentgear",
+        "path": "recipe/emerald_shard"
+      },
+      {
+        "namespace": "silentgear",
+        "path": "recipe/diamond_from_shards"
+      },
+      {
+        "namespace": "silentgear",
+        "path": "recipe/diamond_shard"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "recipe/crafting/nugget_copper_to_copper_ingot"
+      },
+      {
+        "namespace": "halcyon",
+        "path": "recipe/crafting/copper_ingot_from_nuggets"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/scaffolding"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "recipe/scaffolding_from_canvas"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "cake_from_milk_bottle"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/stick_from_bamboo_item"
+      },
+	  {
+        "namespace": "create",
+        "path": "recipe/crafting/materials/copper_nugget"
+      },
+	  {
+        "namespace": "quark",
+        "path": "recipe/building/crafting/slabs/calcite_stairs"
+      },
+	  {
+        "namespace": "quark",
+        "path": "recipe/building/crafting/walls/calcite_wall"
+      },
+	  {
+        "namespace": "quark",
+        "path": "building/crafting/slabs/calcite_slab"
+      },
+	  {
+        "namespace": "immersiveengineering",
+        "path": "recipe/crafting/stick_iron"
+      },
+	  {
+        "namespace": "silentgear",
+        "path": "recipe/cord_blueprint"
+      },
+	  {
+        "namespace": "silentgear",
+        "path": "recipe/bracelet_blueprint"
+      },
+	  {
+        "namespace": "silentgear",
+        "path": "recipe/ring_blueprint"
+      },
+	  {
+        "namespace": "silentgear",
+        "path": "recipe/binding_blueprint"
+      },
+	  {
+        "namespace": "silentgear",
+        "path": "recipe/necklace_blueprint"
+      },
+	  {
+        "namespace": "witchery",
+        "path": "recipe/sheep_liver_meaty_stew"
+      }
+    ]
+  }
+}

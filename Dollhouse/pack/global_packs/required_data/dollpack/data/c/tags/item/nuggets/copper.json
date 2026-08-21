@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "halcyon:copper_nugget"
+    ],
+	"remove": [
+        "create:copper_nugget",
+		"immersiveengineering:nugget_copper"
+    ]
+}

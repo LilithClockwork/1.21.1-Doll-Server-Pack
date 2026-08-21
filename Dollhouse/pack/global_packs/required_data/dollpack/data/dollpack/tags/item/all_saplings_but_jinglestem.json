@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:saplings"
+  ],
+	"remove": [
+        "eternal_starlight:jinglestem_sapling"
+    ]
+}

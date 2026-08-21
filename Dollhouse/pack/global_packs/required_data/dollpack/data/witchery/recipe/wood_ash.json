@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.0,
+  "ingredient": {
+    "tag": "dollpack:all_saplings_but_jinglestem"
+  },
+  "result": {
+    "count": 1,
+    "id": "witchery:wood_ash"
+  }
+}

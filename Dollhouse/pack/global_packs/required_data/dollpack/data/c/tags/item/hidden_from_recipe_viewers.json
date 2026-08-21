@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+        "immersiveengineering:nugget_copper",
+		"create:copper_nugget",
+		"silentgear:diamond_shard",
+		"silentgear:emerald_shard",
+		"quark:calcite_stairs",
+		"quark:calcite_slab",
+		"quark:calcite_wall"
+		
+  ]
+}

@@ -9,12 +9,112 @@ file = "config/cyberneticsvanity-server.toml"
 hash = "69f086af238fd31c649a4f3318ddff9c9c408367b3eb9c2297c1053c186fb66b"
 
 [[files]]
-file = "global_packs/required_data/datapacks_go_here"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "global_packs/required_data/dollfilters/data/required.document"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_data/dollfilters/pack.mcmeta"
+hash = "1cb19a341b66d4a950ed7a9f5f186e2934e5625651b3ad9f9ccc90441911d14e"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/c/tags/item/hidden_from_recipe_viewers.json"
+hash = "95964b500ffc008534f9eae8ca265e4cc4bb04359911b26eccd45e092611772a"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/c/tags/item/nuggets/copper.json"
+hash = "b22b4241cea8ca0e25fab0022c527bb36d16fdf52fce44155b9b7fdac1a8993d"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/create/recipe/crushing/tuff.json"
+hash = "65815f78b4d6c46d3869828af49a8e1449f6910e848ed3821626c884749802a1"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/create/recipe/crushing/tuff_recycling.json"
+hash = "da3dc02a690a2b5992b7e1c893968fc56547f1ddf47a74818710d801999aef89"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/create/recipe/crushing/veridium.json"
+hash = "da9b81a6b3c0c1d8c9131fed40ccc089b2fc56c617a416fe4aa02960d6453315"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/create/recipe/crushing/veridium_recycling.json"
+hash = "d254373509132948005c4ba823fab064832a81ade891263b056ca1c5bda15300"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/create/recipe/splashing/crushed_raw_copper.json"
+hash = "ac8cb2433b6c8bc38ee1fe0f534c23babf7161d8be53e2e060b8334556766cde"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/dollpack/recipe/netheriteqpu.json"
 hash = "75ab2bae65cf33923f87cb5366785beaff39bedc4b488f333c9d89daa73c12bc"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/dollpack/tags/item/all_saplings_but_jinglestem.json"
+hash = "a628bc77f697bc2301fa2131200ce6f119b5e95152763f4b018caa2295557e79"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/handcrafted/recipe/acacia_pillar_trim.json"
+hash = "39c6daef73fc15e3c66dd7cbbee251afd6f35b1b2bc4b4614dcc8173a6127284"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/handcrafted/recipe/bamboo_pillar_trim.json"
+hash = "31b972be4dfbe74d1b24b5d9c593eea8b6379ee54470f9ec587bdd283170c990"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/handcrafted/recipe/birch_pillar_trim.json"
+hash = "a120bfcc98e122a45210668dc204623303aba29d63adf80654d04986b155a1dc"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/handcrafted/recipe/cherry_pillar_trim.json"
+hash = "5edf3b73f59edded846e1a0113e60998644507f8c038eb7e82af133aa9923f97"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/handcrafted/recipe/crimson_pillar_trim.json"
+hash = "ddd5ebd3a87bda0077298ea1d745c7c2bfc1ff613f215f0390d8477ffa7939dd"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/handcrafted/recipe/dark_oak_pillar_trim.json"
+hash = "b20b8c6d628d85d809b8f288a74edb3e6ead519006485269f49a566fc4006cfc"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/handcrafted/recipe/jungle_pillar_trim.json"
+hash = "600f396b0abae56719cc26cd1c7d44d5670b3687e3e7889301ef938478029ac7"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/handcrafted/recipe/mangrove_pillar_trim.json"
+hash = "839ac4345a36aa3a6d55d20565b88116a8410061fa492b94e3a7dedec2323dd9"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/handcrafted/recipe/oak_pillar_trim.json"
+hash = "01d87bc6f77bee10fb5eb18946da7cad78f06c776cbae00525675b8133d510db"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/handcrafted/recipe/spruce_pillar_trim.json"
+hash = "eacda8b1d720cf447aee04324497e67283547d6b9e6d9bd9f8ac4e914b1f160a"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/handcrafted/recipe/warped_pillar_trim.json"
+hash = "8f75f9552dec18445d34e5748c95bb276701e42db143fa8d953e52a6fd99cbfb"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/quark/recipe/building/crafting/vertslabs/calcite_vertical_slab.json"
+hash = "70a7c6966306d6129b6d1fa8940f479dc954a64d7e84aa74a4d314a2b8ee47f2"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/quark/recipe/building/crafting/vertslabs/calcite_vertical_slab_revert.json"
+hash = "a87861a616d0c7bd5981da231f9e9a8cab9636e7ab6d3ec626f379e87558325b"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/quark/recipe/tweaks/smelting/bone_meal_utility.json"
+hash = "887fed7fa9f3196a94e3021b9ddc9fccae628e8243208172f070b1c774ce34a6"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/silentgear/recipe/iron_rod.json"
+hash = "f07abb5cc73c7e8285f66bd6ad4551a8313f6a1e5ddef1c350566eae582975c7"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/witchery/recipe/wood_ash.json"
+hash = "075fd6a2cf22221e4e96bd731d8b32a22addae2aa4d114fa4534206933c61b06"
 
 [[files]]
 file = "global_packs/required_data/dollpack/pack.mcmeta"
