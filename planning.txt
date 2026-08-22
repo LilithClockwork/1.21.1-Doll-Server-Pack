@@ -5,3 +5,4 @@ Add YIGD, config to death recall scroll
 Datapacks:
 Recipe for Origin changing orb.
 Deconflict oregen
+Change get mob head with treasure hunter advancement requirements so as to bypass the bug
