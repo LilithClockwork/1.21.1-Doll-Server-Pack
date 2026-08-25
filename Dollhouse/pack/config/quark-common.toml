@@ -778,7 +778,7 @@
 	"New Stone Types" = true
 	"No More Lava Pockets" = true
 	Permafrost = true
-	"Spiral Spires" = true
+	"Spiral Spires" = false
 
 	#(Ashen Trees)
 	[world.ancient_wood]
@@ -925,8 +925,8 @@
 					"Is Blacklist" = true
 
 		[world.big_stone_clusters.myalite]
-			"Generate In Air" = true
-			Enabled = true
+			"Generate In Air" = false
+			Enabled = false
 			#Allowed values: [0,)
 			Rarity = 100
 			"Min Y Level" = 58
@@ -1174,7 +1174,7 @@
 		#The chance for a chunk to contain spikes (1 is 100%, 0 is 0%)
 		"Chance Per Chunk" = 0.1
 		#The chance for a spike to be big (1 is 100%, 0 is 0%)
-		"Big Spike Chance" = 0.03
+		"Big Spike Chance" = 0.1
 		#Should a chunk have spikes, how many would the generator try to place
 		"Tries Per Chunk" = 4
 		"Big Spike Spawners" = true
@@ -1325,7 +1325,7 @@
 	[world.spiral_spires]
 		Rarity = 200
 		Radius = 15
-		"Enable Myalite Viaducts" = true
+		"Enable Myalite Viaducts" = false
 		#Allowed values: [2,1,024]
 		"Myalite Conduit Distance" = 24
 		"Renewable Myalite" = true
