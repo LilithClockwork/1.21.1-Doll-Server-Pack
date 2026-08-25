@@ -1,7 +1,5 @@
 Mods: 
-Colorful Hearts
-Remove Corpse + Compat
-Add YIGD, config to death recall scroll
+
 Datapacks:
 Recipe for Origin changing orb.
 Deconflict oregen

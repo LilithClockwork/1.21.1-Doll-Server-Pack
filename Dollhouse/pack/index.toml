@@ -21,6 +21,10 @@ file = "config/quark-common.toml"
 hash = "9bf00615c083cd795d78501fbcf2b571c801d2f7960c4c28c284d93cc0da0060"
 
 [[files]]
+file = "config/yigd.json"
+hash = "6d0c13aa53aba21b50d32fb935553392551a42033dcedbc2b2e161228c9eadd5"
+
+[[files]]
 file = "global_packs/required_data/dollfilters/data/required.document"
 hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
@@ -234,21 +238,6 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
-metafile = true
-
-[[files]]
-file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
-hash = "99755970a2ad9ed8efce13e5f275adb94ae535437e973f011671177634ac9699"
-metafile = true
-
-[[files]]
-file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "073c8410430fa1f84f4b8926ea37ce5bdcf2df764c25f44331978171311da9f2"
-metafile = true
-
-[[files]]
-file = "mods/corpse.pw.toml"
-hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
 metafile = true
 
 [[files]]
@@ -689,6 +678,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "210cce3a74344d8ccbe0023ea0399b5573c5e622ae970d0cf81b753b18f1fc3f"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.pw.toml"
+hash = "6b548f0402651a554b18cb6560bf85744d0827dfd001bb66232904e7962258e1"
 metafile = true
 
 [[files]]
