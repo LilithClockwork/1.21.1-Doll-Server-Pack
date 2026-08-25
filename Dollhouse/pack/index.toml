@@ -17,6 +17,14 @@ file = "config/immersiveengineering-startup.toml"
 hash = "b5b50d355bfff3aaebaeb1267506eab716f811e5e78fc965b2c30eb37ffaa180"
 
 [[files]]
+file = "config/modular_backpacks-client.toml"
+hash = "7eb804cf4f281218ea942a71fce9156ffbd60a17515ce7e611a11cffc815d01b"
+
+[[files]]
+file = "config/modular_backpacks-server.toml"
+hash = "dad3fca4fb56fbc13c517aae6d9e32f0f4f5f8de037c5570720d013b9c46833b"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "274edd25b64cb3fd7d2e350699fc0bbe4d177c8e309ed4990f96704b1ba46565"
 
@@ -508,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "9937e9a35461a0d55b574bb3e363c342b033a937f3e99365697886df6ce5ba73"
+metafile = true
+
+[[files]]
+file = "mods/modular-backpacks.pw.toml"
+hash = "c43951c4481db4f25bdd3a65e0e6db123101375b26dd8e895e9464dd470ee09e"
 metafile = true
 
 [[files]]
