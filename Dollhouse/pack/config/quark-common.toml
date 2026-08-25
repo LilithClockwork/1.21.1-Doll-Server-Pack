@@ -1,5 +1,5 @@
 [general]
-	"Enable 'q' Button" = true
+	"Enable 'q' Button" = false
 	"'q' Button on the Right" = false
 	"Disable Q Menu Effects" = false
 	#How many advancements deep you can see in the advancement screen. Vanilla is 2.
@@ -355,12 +355,12 @@
 
 	[tools.ancient_tomes]
 		#Format is lootTable,weight. i.e. "minecraft:chests/stronghold_library,30"
-		"Loot Tables" = ["minecraft:chests/stronghold_library,20", "minecraft:chests/simple_dungeon,20", "minecraft:chests/bastion_treasure,25", "minecraft:chests/woodland_mansion,15", "minecraft:chests/nether_bridge,0", "minecraft:chests/underwater_ruin_big,0", "minecraft:chests/underwater_ruin_small,0", "minecraft:chests/ancient_city,4", "quark:misc/monster_box,5"]
+		"Loot Tables" = ["minecraft:chests/stronghold_library,20", "minecraft:chests/simple_dungeon,20", "minecraft:chests/bastion_treasure,25", "minecraft:chests/woodland_mansion,15", "minecraft:chests/nether_bridge,0", "minecraft:chests/underwater_ruin_big,0", "minecraft:chests/underwater_ruin_small,0", "minecraft:chests/ancient_city,4", "quark:misc/monster_box,5", "pastel:chests/bookshop_counter,20", "pastel:chests/bookshop_upper,30"]
 		"Item Quality" = 2
 		"Normal Upgrade Cost" = 10
 		"Limit Break Upgrade Extra Cost" = 20
 		"Max Limit Break Levels" = 1
-		"Valid Enchantments" = ["minecraft:feather_falling", "minecraft:thorns", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:fire_aspect", "minecraft:looting", "minecraft:sweeping_edge", "minecraft:efficiency", "minecraft:unbreaking", "minecraft:fortune", "minecraft:power", "minecraft:punch", "minecraft:luck_of_the_sea", "minecraft:lure", "minecraft:loyalty", "minecraft:riptide", "minecraft:impaling", "minecraft:piercing", "minecraft:density", "minecraft:breach", "minecraft:wind_burst"]
+		"Valid Enchantments" = ["minecraft:feather_falling", "minecraft:thorns", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:fire_aspect", "minecraft:looting", "minecraft:sweeping_edge", "minecraft:efficiency", "minecraft:unbreaking", "minecraft:fortune", "minecraft:power", "minecraft:punch", "minecraft:luck_of_the_sea", "minecraft:lure", "minecraft:loyalty", "minecraft:riptide", "minecraft:impaling", "minecraft:piercing", "minecraft:density", "minecraft:breach", "minecraft:wind_burst", "create:capacity", "create:potato_recovery", "createcybernetics:harvester", "eternal_starlight:abyssal_touch", "eternal_starlight:fearless", "eternal_starlight:fertile", "eternal_starlight:gathering", "eternal_starlight:glacial_sowing", "eternal_starlight:homing", "eternal_starlight:overheat", "eternal_starlight:poisoning", "eternal_starlight:precision", "eternal_starlight:soul_snatcher", "eternal_starlight:swift_lash", "eternal_starlight:tracing", "farmersdelight:backstabbing", "origins:water_protection", "pastel:big_catch", "pastel:clovers_favor", "pastel:disarming", "pastel:exuberance", "pastel:first_strike", "pastel:improved_critical", "pastel:inertia", "pastel:razing", "pastel:serendipity_reel", "pastel:tight_grip", "pastel:treasure_hunter", "weaversparadise:breathing_exercise", "weaversparadise:graceful", "weaversparadise:soft_and_cozy", "weaversparadise:tough_as_nails", "weaversparadise:vampirism"]
 		"Overleveled Books Glow Rainbow" = true
 		#When enabled, Efficiency VI Diamond and Netherite pickaxes can instamine Deepslate when under Haste 2
 		"Deepslate Tweak" = true
@@ -1187,7 +1187,7 @@
 		"Enable Limestone" = true
 		"Enable Jasper" = true
 		"Enable Shale" = true
-		"Enable Myalite" = true
+		"Enable Myalite" = false
 		"Add New Stones To Mason Trades" = true
 
 			[world.new_stone_types.limestone.dimensions]

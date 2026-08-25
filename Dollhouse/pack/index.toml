@@ -18,7 +18,7 @@ hash = "b5b50d355bfff3aaebaeb1267506eab716f811e5e78fc965b2c30eb37ffaa180"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "9bf00615c083cd795d78501fbcf2b571c801d2f7960c4c28c284d93cc0da0060"
+hash = "004d0137f572b15c38cb8a9ec378ac1133d997a60c97a349c284953d8f6565cf"
 
 [[files]]
 file = "config/yigd.json"
