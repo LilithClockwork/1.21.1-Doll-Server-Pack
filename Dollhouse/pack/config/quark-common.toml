@@ -54,7 +54,7 @@
 	"Iron Rod" = true
 	"Metal Buttons" = true
 	"Obsidian Plate" = true
-	"Pistons Move Tile Entities" = true
+	"Pistons Move Tile Entities" = false
 	"Redstone Randomizer" = true
 
 	[automation.dispensers_place_blocks]
@@ -87,7 +87,7 @@
 		"Enable Gold" = true
 
 	[automation.pistons_move_tile_entities]
-		"Enable Chests Moving Together" = true
+		"Enable Chests Moving Together" = false
 		"Render Blacklist" = ["psi:programmer", "botania:starfield"]
 		"Movement Blacklist" = ["minecraft:spawner", "minecraft:trial_spawner", "minecraft:vault", "integrateddynamics:cable", "randomthings:blockbreaker", "minecraft:ender_chest", "minecraft:enchanting_table", "#minecraft:ceiling_hanging_signs", "#c:chests/trapped", "endergetic:bolloom_bud"]
 		"Namespace Movement Blacklist" = []
@@ -1458,7 +1458,7 @@
 
 		[mobs.stonelings.dimensions]
 			"Is Blacklist" = false
-			Dimensions = ["minecraft:overworld"]
+			Dimensions = ["minecraft:overworld, pastel:imbrifer"]
 
 		[mobs.stonelings.spawn_config]
 			#Allowed values: (0,)
@@ -1590,7 +1590,7 @@
 
 	[client.improved_tooltips]
 		"Attribute Tooltips" = true
-		"Food Tooltips" = true
+		"Food Tooltips" = false
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
@@ -1642,7 +1642,7 @@
 		"Enable Shiny Armadillo" = true
 		"Enable Shiny Frog" = true
 		"Enable L G B T Bees" = true
-		"Every Bee Is L G B T" = false
+		"Every Bee Is L G B T" = true
 		#The chance for an animal to have a special "Shiny" skin, like a shiny pokemon. This is 1 in X. Set to 0 to disable.
 		"Shiny Animal Chance" = 2048
 		#If a shiny animal should emit occasional sparkles.
@@ -1689,7 +1689,7 @@
 	[experimental.game_nerfs]
 		#Makes Mending act like the Unmending mod
 		#https://www.curseforge.com/minecraft/mc-mods/unmending
-		"Nerf Mending" = true
+		"Nerf Mending" = false
 		#Makes Mending II still work even if mending is nerfed.
 		#If you want Mending II, disable the sanity check on Ancient Tomes and add minecraft:mending to the tomes.
 		"No Nerf for Mending II" = false
@@ -1706,7 +1706,7 @@
 		#Makes falling blocks not able to be duped via dimension crossing
 		"Disable Falling Block Dupe" = true
 		#Fixes several piston physics exploits, most notably including TNT duping
-		"Disable Piston Physics Exploits" = true
+		"Disable Piston Physics Exploits" = false
 		#Fixes mushroom growth being able to replace blocks
 		"Disable Mushroom Block Removal" = true
 		#Makes tripwire hooks unable to be duplicated
@@ -1877,13 +1877,13 @@
 		"Reroll Even If Not Out Of Stock" = false
 
 [oddities]
-	Backpack = true
+	Backpack = false
 	Crate = true
 	Magnets = true
 	"Matrix Enchanting" = true
 	Pipes = true
 	"Tiny Potato" = true
-	"Totem Of Holding" = true
+	"Totem Of Holding" = false
 
 	[oddities.backpack]
 		#Set this to true to allow the backpacks to be unequipped even with items in them
@@ -1944,7 +1944,7 @@
 		#Set to false to disable the ability to create Enchanted Books
 		"Allow Books" = true
 		#Set this to true to allow treasure enchantments to be rolled as pieces
-		"Allow Treasures" = false
+		"Allow Treasures" = true
 		#Set this to true to allow undiscoverable enchantments (that is, enchantments that are not in the #minecraft:in_enchanting_table tag) to be rolled as pieces
 		"Allow Undiscoverable Enchantments" = false
 		#Any treasure enchantment IDs here will be able to appear in books in matrix enchanting
@@ -1960,11 +1960,11 @@
 		#Matrix Enchanting can be done with short (<= 3px blocks) instead of air around the enchanting table. Set this to false to disable this behaviour.
 		"Allow Short Block Enchanting" = true
 		#If true, items that have 0 enchantability, but are in the #c:enchantables tag, such as Shears and Shields, can be enchanted in the Matrix Enchanter
-		"Allow Zero Enchantability" = false
+		"Allow Zero Enchantability" = true
 		#Candles with soul sand below them or below the bookshelves dampen enchantments instead of influence them.
 		"Soul Candles Invert" = true
 		#A list of enchantment IDs you don't want the enchantment table to be able to create
-		"Disallowed Enchantments" = []
+		"Disallowed Enchantments" = ["pastel:big_catch", "pastel:clovers_favor", "pastel:disarming", "pastel:exuberance", "pastel:first_strike", "pastel:foundry", "pastel:improved_critical", "pastel:indestructible", "pastel:inertia", "pastel:inexorable", "pastel:inventory_insertion", "pastel:pest_control", "pastel:razing", "pastel:resonance", "pastel:serendipity_reel", "pastel:steadfast", "pastel:tight_grip", "pastel:treasure_hunter", "pastel:voiding"]
 		#An array of influences each candle should apply. This list must be 16 elements long, and is in order of wool colors.
 		#A minus sign before an enchantment will make the influence decrease the probability of that enchantment.
 		"Influences List" = ["minecraft:unbreaking", "minecraft:fire_protection", "minecraft:knockback,minecraft:punch", "minecraft:feather_falling", "minecraft:looting,minecraft:fortune,minecraft:luck_of_the_sea", "minecraft:blast_protection", "minecraft:silk_touch,minecraft:channeling", "minecraft:bane_of_arthropods", "minecraft:protection", "minecraft:respiration,minecraft:loyalty,minecraft:infinity", "minecraft:sweeping_edge,minecraft:multishot", "minecraft:efficiency,minecraft:sharpness,minecraft:lure,minecraft:power,minecraft:impaling,minecraft:quick_charge", "minecraft:aqua_affinity,minecraft:depth_strider,minecraft:riptide", "minecraft:thorns,minecraft:piercing", "minecraft:fire_aspect,minecraft:flame", "minecraft:smite,minecraft:projectile_protection"]
@@ -1978,7 +1978,7 @@
 		#How much each candle influences an enchantment. This works as a multiplier to its weight
 		"Influence Power" = 0.125
 		#If you set this to false, the vanilla Enchanting Table will no longer automatically convert to the Matrix Enchanting table. You'll have to add a recipe for the Matrix Enchanting Table to make use of this.
-		"Automatically Convert" = true
+		"Automatically Convert" = false
 
 	[oddities.pipes]
 		#How long it takes for an item to cross a pipe. Bigger = slower.
