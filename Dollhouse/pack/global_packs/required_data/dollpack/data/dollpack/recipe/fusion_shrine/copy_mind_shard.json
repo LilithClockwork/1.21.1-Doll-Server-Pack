@@ -25,7 +25,7 @@
       }
     }
   ],
-  "required_advancement": "createcybernetics:cyberware/root",
+  "required_advancement": "pastel:unlocks/blocks/fusion_shrine",
   "result": {
     "count": 2,
     "id": "createcybernetics:data_shard_biochip"
