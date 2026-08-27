@@ -129,6 +129,14 @@ file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/c
 hash = "c436b9376d2ac2cf48d17535919c522cfb7377e980ade5d7c96ac0d62ce3a9c2"
 
 [[files]]
+file = "global_packs/required_data/dollpack/data/dollpack/recipe/crafting/matrix_enchanter_conversion.json"
+hash = "00a6aebc7cd2ef3de56a5e53270497b7aec10e488ceddd042bc909345cd6e363"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/dollpack/recipe/crafting/matrix_enchanter_deconversion.json"
+hash = "0b14d56a51bc559425f581de8d44577e5960ddae079c0ec2e29cb17f313cf5d5"
+
+[[files]]
 file = "global_packs/required_data/dollpack/data/dollpack/recipe/crafting/netheriteqpu.json"
 hash = "75ab2bae65cf33923f87cb5366785beaff39bedc4b488f333c9d89daa73c12bc"
 
