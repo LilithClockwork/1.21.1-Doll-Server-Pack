@@ -133,6 +133,10 @@ file = "global_packs/required_data/dollpack/data/dollpack/recipe/crafting/nether
 hash = "75ab2bae65cf33923f87cb5366785beaff39bedc4b488f333c9d89daa73c12bc"
 
 [[files]]
+file = "global_packs/required_data/dollpack/data/dollpack/recipe/crafting/timesteeldupe.json"
+hash = "4686497f120a2b2ed0dbd5174ca5836050d01ca281a080da589b829b3ca36fbe"
+
+[[files]]
 file = "global_packs/required_data/dollpack/data/dollpack/recipe/fusion_shrine/copy_mind_shard.json"
 hash = "85f7ef66a00a763079b7807621eaeca331592a118218735af8c9a970ad35d8f4"
 
@@ -199,6 +203,14 @@ hash = "887fed7fa9f3196a94e3021b9ddc9fccae628e8243208172f070b1c774ce34a6"
 [[files]]
 file = "global_packs/required_data/dollpack/data/silentgear/recipe/iron_rod.json"
 hash = "f07abb5cc73c7e8285f66bd6ad4551a8313f6a1e5ddef1c350566eae582975c7"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/tempad/recipe/time_steel_create.json"
+hash = "486b290120c2fa6b74744843429d01c5b716fcdf670ad4943c6aedaeabf646f8"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/tempad/recipe/time_steel_shaped.json"
+hash = "777a5e586e4fcd4c299cc758f7457ad783f6b2995a47c73e5da1dafe66b59c32"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/witchery/recipe/wood_ash.json"

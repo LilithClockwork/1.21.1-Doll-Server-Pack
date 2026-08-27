@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": {
+      "tag": "c:ingots/iron"
+    },
+	"t": {
+      "item": "tempad:time_steel"
+    },
+    "s": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "pattern": [
+    "sis",
+	"t t",
+    "sis"
+  ],
+  "result": {
+    "count": 4,
+    "id": "tempad:time_steel"
+  }
+}

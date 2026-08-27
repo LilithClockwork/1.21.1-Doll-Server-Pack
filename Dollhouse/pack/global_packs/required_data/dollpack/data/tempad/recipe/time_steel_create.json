@@ -1,0 +1,27 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "create"
+        }
+    ],
+    "type": "create:mixing",
+    "heat_requirement": "superheated",
+    "ingredients": [
+        {
+            "tag": "c:ingots/iron"
+        },
+		{
+			"item": "minecraft:amethyst_shard"
+		},
+        {
+            "item": "tempad:time_steel"
+        }
+    ],
+    "results": [
+        {
+            "count": 2,
+            "id": "tempad:time_steel"
+        }
+    ]
+}
