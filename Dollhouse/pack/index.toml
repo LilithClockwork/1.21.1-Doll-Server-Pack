@@ -74,7 +74,7 @@ hash = "75ab2bae65cf33923f87cb5366785beaff39bedc4b488f333c9d89daa73c12bc"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/dollpack/recipe/fusion_shrine/copy_mind_shard.json"
-hash = "95f5aba4e44bd0104262f764d657933454a7359b07fed2053df01e0ec45eb4be"
+hash = "5e67c70658f80bfa41f74dde33ab8e71f2092f55e719066dc01d6480056ba074"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/dollpack/tags/item/all_saplings_but_jinglestem.json"
