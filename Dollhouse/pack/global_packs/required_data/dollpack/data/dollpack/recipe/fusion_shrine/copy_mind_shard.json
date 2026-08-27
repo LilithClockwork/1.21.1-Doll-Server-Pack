@@ -1,0 +1,35 @@
+{
+  "type": "pastel:fusion_shrine",
+  "copy_components": true,
+  "during_crafting_effects": [
+    "pastel:nothing",
+    "pastel:nothing",
+    "pastel:nothing"
+  ],
+  "experience": 16.0,
+  "finish_crafting_effect": "pastel:legendary_tool_craft",
+  "fluid": {
+    "fluid": "pastel:midnight_solution"
+  },
+  "ingredients": [
+    {
+      "count": 1,
+      "ingredient": {
+        "item": "createcybernetics:data_shard_biochip"
+      }
+    },
+    {
+      "count": 1,
+      "ingredient": {
+        "tag": "createcybernetics:data_shards"
+      }
+    }
+  ],
+  "required_advancement": "createcybernetics:cyberware/root",
+  "result": {
+    "count": 2,
+    "id": "createcybernetics:data_shard_biochip"
+  },
+  "start_crafting_effect": "pastel:single_visual_explosion_on_shrine",
+  "time": 600
+}

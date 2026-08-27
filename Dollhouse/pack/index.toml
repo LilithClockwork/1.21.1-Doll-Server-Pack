@@ -69,8 +69,12 @@ file = "global_packs/required_data/dollpack/data/create/recipe/splashing/crushed
 hash = "ac8cb2433b6c8bc38ee1fe0f534c23babf7161d8be53e2e060b8334556766cde"
 
 [[files]]
-file = "global_packs/required_data/dollpack/data/dollpack/recipe/netheriteqpu.json"
+file = "global_packs/required_data/dollpack/data/dollpack/recipe/crafting/netheriteqpu.json"
 hash = "75ab2bae65cf33923f87cb5366785beaff39bedc4b488f333c9d89daa73c12bc"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/dollpack/recipe/fusion_shrine/copy_mind_shard.json"
+hash = "95f5aba4e44bd0104262f764d657933454a7359b07fed2053df01e0ec45eb4be"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/dollpack/tags/item/all_saplings_but_jinglestem.json"
