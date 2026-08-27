@@ -69,6 +69,62 @@ file = "global_packs/required_data/dollpack/data/create/recipe/splashing/crushed
 hash = "ac8cb2433b6c8bc38ee1fe0f534c23babf7161d8be53e2e060b8334556766cde"
 
 [[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/boneless.json"
+hash = "e6ae4193a7ddeddedec1b85b32fe2104b8bc3d43187dc406ec5327b95379740e"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/bones_and_all.json"
+hash = "10a5da0eaa55ffe1abf12ec22bb93cf906215063db10d5b0dc95cc85d139a159"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/chest_pains.json"
+hash = "218abd11702ea460493dc0ed17e0faf01c721e546de91cb2276c194b8179a0f1"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/cogito_ergo_sum.json"
+hash = "f825dc33e7d8f95454afc570113a739e8c8302abff1db4bf07875b8e0cb93676"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/david_special.json"
+hash = "5ca725ad2e9b3b68951d739be6ac87629991a72d96f6aadb14860fba899a844c"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/liver_removed.json"
+hash = "c4ae29919764589ff515ae551d34b49d0866627d10da0aa64b7c6ca5a6cf898b"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/lungs_removed.json"
+hash = "720e4bd3a3bae2594139f273da942e4f0599a34688b5a7a426a32ee0e5ffc61b"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/missing_limbs.json"
+hash = "e431e3f6f66a63ddb93148b686b6208ed9002b96aa21e5985adf38d38ddce83c"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/missing_muscle.json"
+hash = "5e41158d605b79cc91fd65167920de5f31405e588847e251a9be1b8edbd00037"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/pretty_in_pink.json"
+hash = "b2fc622e89e06560908ae48dbee6d47119645f5776ff85c5fc7b9b063e832570"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/root.json"
+hash = "1538923953093d819cd7ba8103615ec4121a21ed38805e11e5038d1e43191a26"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/skin_removed.json"
+hash = "cf4c88a1b8a513b09e22b7ea030c18a7a4a03aac59f409f9678a51e5b9b1d757"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/thoughtless.json"
+hash = "83adc43199d1897cdba6b844d2170bdfe93729a1b0f9a9aec0938d3989fcfe37"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/createcybernetics/advancement/cyberware/upgraded.json"
+hash = "c436b9376d2ac2cf48d17535919c522cfb7377e980ade5d7c96ac0d62ce3a9c2"
+
+[[files]]
 file = "global_packs/required_data/dollpack/data/dollpack/recipe/crafting/netheriteqpu.json"
 hash = "75ab2bae65cf33923f87cb5366785beaff39bedc4b488f333c9d89daa73c12bc"
 

@@ -1,0 +1,27 @@
+{
+  "parent": "createcybernetics:cyberware/root",
+  "criteria": {
+    "bones_and_all": {
+      "trigger": "createcybernetics:bones_and_all"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.bones_and_all.desc"
+    },
+    "icon": {
+      "count": 1,
+      "id": "createcybernetics:bone_marrow"
+    },
+    "title": {
+      "translate": "advancement.bones_and_all"
+    }
+  },
+  "requirements": [
+    [
+      "bones_and_all"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
