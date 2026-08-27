@@ -433,6 +433,11 @@ hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
 metafile = true
 
 [[files]]
+file = "mods/goety.pw.toml"
+hash = "583f037c04b15fce1e379f6ad60c1a248cd925dd1553a0930752dce6c2f0c8f4"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
 metafile = true
