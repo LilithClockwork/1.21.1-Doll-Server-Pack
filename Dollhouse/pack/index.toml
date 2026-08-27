@@ -197,6 +197,10 @@ file = "global_packs/required_data/dollpack/data/handcrafted/recipe/warped_pilla
 hash = "8f75f9552dec18445d34e5748c95bb276701e42db143fa8d953e52a6fd99cbfb"
 
 [[files]]
+file = "global_packs/required_data/dollpack/data/pastel/advancement/midgame/collect_mob_head_using_treasure_hunter.json"
+hash = "c2faa9d7bb13f6bdc94048c9be0d18d6d9eee362df9da2013d839afdc4c7def6"
+
+[[files]]
 file = "global_packs/required_data/dollpack/data/quark/recipe/building/crafting/vertslabs/calcite_vertical_slab.json"
 hash = "70a7c6966306d6129b6d1fa8940f479dc954a64d7e84aa74a4d314a2b8ee47f2"
 
