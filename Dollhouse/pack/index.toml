@@ -9,6 +9,10 @@ file = "config/cyberneticsvanity-server.toml"
 hash = "69f086af238fd31c649a4f3318ddff9c9c408367b3eb9c2297c1053c186fb66b"
 
 [[files]]
+file = "config/immersiveengineering-client.toml"
+hash = "044c418f33b29218d1a4be323218dfcba8424c41b498df0b5806fd77f1a78bf5"
+
+[[files]]
 file = "config/immersiveengineering-server.toml"
 hash = "d62252d65ff01849e336277b5a0ade657034d50581bc3697e1093406f443fcdb"
 
