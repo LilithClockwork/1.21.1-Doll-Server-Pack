@@ -3,7 +3,7 @@ Test Switchy, remove NeoSync if Switchy works with Cybernetics.
 
 Datapacks:
 Recipe for Origin changing orb.
-Deconflict oregen
+Deconflict oregen (somehow miraculously unneeded)
 Change get mob head with treasure hunter advancement requirements so as to bypass the bug
 Add Matrix Enchanting Tables recipe
 Fusion Shrine recipe for copying consiousness data shards? (tenatively yes, awaiting fusion shrine working)
