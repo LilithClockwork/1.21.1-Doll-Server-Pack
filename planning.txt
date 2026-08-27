@@ -6,5 +6,5 @@ Recipe for Origin changing orb.
 Deconflict oregen
 Change get mob head with treasure hunter advancement requirements so as to bypass the bug
 Add Matrix Enchanting Tables recipe
-Fusion Shrine recipe for copying consiousness data shards?
+Fusion Shrine recipe for copying consiousness data shards? (tenatively yes, awaiting fusion shrine working)
 Alternate Time Steel recipe
