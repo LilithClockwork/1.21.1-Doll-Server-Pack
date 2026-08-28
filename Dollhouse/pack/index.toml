@@ -42,7 +42,7 @@ hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "global_packs/required_data/dollfilters/pack.mcmeta"
-hash = "1cb19a341b66d4a950ed7a9f5f186e2934e5625651b3ad9f9ccc90441911d14e"
+hash = "244c93eb091731fa0e0bfbda52f72ac7c8e2ced7b0f277212081ab29c5d41e4f"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/c/tags/item/hidden_from_recipe_viewers.json"

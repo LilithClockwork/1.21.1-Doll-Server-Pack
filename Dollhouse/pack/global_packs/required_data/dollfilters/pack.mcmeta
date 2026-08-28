@@ -104,6 +104,70 @@
 	  {
         "namespace": "witchery",
         "path": "recipe/sheep_liver_meaty_stew"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/topaz_block"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/citrine_block"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/onyx_block"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/moonstone_block"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/topaz_block_using_deployer"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/citrine_block_using_deployer"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/onyx_block_using_deployer"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/moonstone_block_using_deployer"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/topaz_block_as_sanding"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/citrine_block_as_sanding"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/onyx_block_as_sanding"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/moonstone_block_as_sanding"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/topaz_block_using_grindstone"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/citrine_block_using_grindstone"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/onyx_block_using_grindstone"
+      },
+	  {
+        "namespace": "create_dragons_plus",
+        "path": "recipe/sandpaper_polishing/pastel/moonstone_block_using_grindstone"
       }
     ]
   }
