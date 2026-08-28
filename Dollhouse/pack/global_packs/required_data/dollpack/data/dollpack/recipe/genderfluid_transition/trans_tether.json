@@ -1,0 +1,5 @@
+{
+  "type": "halcyon:genderfluid_transition",
+  "input": { "item": "goety:empty_focus" },
+  "result": { "id": "origins:orb_of_origin" }
+}

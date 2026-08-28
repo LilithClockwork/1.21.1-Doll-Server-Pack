@@ -149,6 +149,10 @@ file = "global_packs/required_data/dollpack/data/dollpack/recipe/fusion_shrine/c
 hash = "85f7ef66a00a763079b7807621eaeca331592a118218735af8c9a970ad35d8f4"
 
 [[files]]
+file = "global_packs/required_data/dollpack/data/dollpack/recipe/genderfluid_transition/trans_tether.json"
+hash = "30ba226a9b45b753a481ddc641c0e115bcf573ef8bea186059cb79dd6add0b2a"
+
+[[files]]
 file = "global_packs/required_data/dollpack/data/dollpack/tags/item/all_saplings_but_jinglestem.json"
 hash = "a628bc77f697bc2301fa2131200ce6f119b5e95152763f4b018caa2295557e79"
 
