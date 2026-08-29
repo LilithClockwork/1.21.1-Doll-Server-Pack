@@ -316,6 +316,11 @@ hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
 
 [[files]]
+file = "mods/clockwork.pw.toml"
+hash = "3a3ec3fb7749b07309075849697c81e813f6f4a066ff2bebc26f06a43cc54b93"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
@@ -593,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-immersive-multiblocks.pw.toml"
 hash = "cb94b5548a9ed37b278fc9a951d6bc720406650a1df8e5a7b0319a646379ca3d"
+metafile = true
+
+[[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "d672f3b1fdcec2ee78d2638e046b9562688c44550979ff4e31705c24b37081bb"
 metafile = true
 
 [[files]]
