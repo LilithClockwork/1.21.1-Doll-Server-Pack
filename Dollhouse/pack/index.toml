@@ -246,6 +246,11 @@ hash = "ed90b65c424e2af0597d2a39bc655ebdb5ef25c7f30e0d8af9c0eb5fdd172bba"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "0678d2792e6a509a579b60c0b9252d1af44b46d729d2d326d5b053eabfec9447"
+metafile = true
+
+[[files]]
 file = "mods/alchemancy.pw.toml"
 hash = "bf25d280ec62a7f03be94edbd9487051f3bcf4bce9a8a12f021a2037a1fe2317"
 metafile = true
@@ -323,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "57f8e906e0ec4815d1aceb9df17ccb026d74337aa6964737c0757eaf8ad86364"
+metafile = true
+
+[[files]]
+file = "mods/common-storage-lib.pw.toml"
+hash = "9f7ce01579bfa07cd81b9caf3222bcead5e1dd44f7f22e1b016ac91b4095144d"
 metafile = true
 
 [[files]]
