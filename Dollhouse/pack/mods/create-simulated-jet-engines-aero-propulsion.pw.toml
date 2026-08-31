@@ -1,13 +1,13 @@
 name = "Create: Simulated Jet Engines | Aero Propulsion | Create Aeronautics"
-filename = "morepropulsion-1.3.0.jar"
+filename = "morepropulsion-1.4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9df17da7fbaef986fa874b076111020a3831dee9"
+hash = "a5bad311eeecbf2aaa42eba081a86afb9a873cbc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8504524
+file-id = 8746527
 project-id = 1603705
