@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/cybernetics.pw.toml"
-hash = "c64fcb3aa285b13c26c1a7fe81217148cf0014823fdede3a86f56d6ed3c95ee5"
+hash = "8bcdb47cedd81a531c5aa2e8eb29b8fe072c8bf1a76ad7d09a83b07d04dff5cc"
 metafile = true
 
 [[files]]
