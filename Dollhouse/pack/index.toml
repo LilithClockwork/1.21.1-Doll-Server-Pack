@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-neoforge.pw.toml"
-hash = "f94ed260bea7bc8fc6df8eb97eca31b212949d3c493c5934a22ac2754af16cfa"
+hash = "f4efbfd8a34a65fe128026cc3bccbf4cfe09e80849eb28af51d2eb618b3ad896"
 metafile = true
 
 [[files]]
