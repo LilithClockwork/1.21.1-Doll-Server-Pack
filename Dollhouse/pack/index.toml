@@ -546,6 +546,11 @@ hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-api.pw.toml"
+hash = "7617dc92469786fc1bacd9a313915ad6a568c7d62fadd23401eb977628b52f5e"
+metafile = true
+
+[[files]]
 file = "mods/hybrid-aquatic.pw.toml"
 hash = "a4aef4c55dd18e8c15d86216d3329adf4ef0d297257f97dd9c3d885d9d7ec3a6"
 metafile = true
