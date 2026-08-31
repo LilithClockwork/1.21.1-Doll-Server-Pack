@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/hybrid-aquatic.pw.toml"
-hash = "07f182f33a9590fd17bdbf52652d7d471aa1c4d71d3542b9b9f5dec1ad9e59ab"
+hash = "a4aef4c55dd18e8c15d86216d3329adf4ef0d297257f97dd9c3d885d9d7ec3a6"
 metafile = true
 
 [[files]]
