@@ -586,11 +586,6 @@ hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "047c8620059e1044e547a23cf239d8bcd182f1d9d0584131aec29df6f7c65d8b"
-metafile = true
-
-[[files]]
 file = "mods/jupiter.pw.toml"
 hash = "a3d803079f7cba47f9d6bf728198f2c335a13938ef50bbdaa3f7ae2457bef58d"
 metafile = true
@@ -778,6 +773,11 @@ metafile = true
 [[files]]
 file = "mods/thaumon.pw.toml"
 hash = "d8e6d54237412c135080aebf255787054523c962a154fce1afa8fc3fbb2adfc2"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "d323a56389acaff215e3dc54e9db35141e8398d111644b45a970b114a29299df"
 metafile = true
 
 [[files]]
