@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/neosync.pw.toml"
-hash = "0c4d176baa42d884cd064943791b71d9838f891dc9bad50b7b324b7706dd865c"
+hash = "cde2c2b07ad9116d56e15d678e2cb4c3e3241ed70ec5f7750e1d84b0a703f047"
 metafile = true
 
 [[files]]
