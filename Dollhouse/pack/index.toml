@@ -201,6 +201,10 @@ file = "global_packs/required_data/dollpack/data/handcrafted/recipe/warped_pilla
 hash = "8f75f9552dec18445d34e5748c95bb276701e42db143fa8d953e52a6fd99cbfb"
 
 [[files]]
+file = "global_packs/required_data/dollpack/data/minecraft/loot_tables/blocks/chiseled_bookshelf.json"
+hash = "d1c7c6a0491522068e6bfa16367d6ccc19af69f9cea2cd32322bcb4408f62945"
+
+[[files]]
 file = "global_packs/required_data/dollpack/data/pastel/advancement/midgame/collect_mob_head_using_treasure_hunter.json"
 hash = "c2faa9d7bb13f6bdc94048c9be0d18d6d9eee362df9da2013d839afdc4c7def6"
 
