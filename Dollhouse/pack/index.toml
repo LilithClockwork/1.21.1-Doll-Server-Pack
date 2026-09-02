@@ -1410,7 +1410,11 @@ hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "global_packs/required_data/dollfilters/pack.mcmeta"
-hash = "244c93eb091731fa0e0bfbda52f72ac7c8e2ced7b0f277212081ab29c5d41e4f"
+hash = "6dccc807a720e045d13be56b5d517e3aeb5102be5bf7a91f8ff10141602ba98b"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/benssharks/advancement/shark_aid.json"
+hash = "38f5d9a09879a19edf5a85cb14b9731c270218d3491d25c69793bae1404b0b5b"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/c/tags/item/hidden_from_recipe_viewers.json"

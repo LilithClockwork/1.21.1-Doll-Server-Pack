@@ -41,6 +41,14 @@
         "namespace": "immersiveengineering",
         "path": "recipe/crafting/nugget_copper_to_copper_ingot"
       },
+	  {
+        "namespace": "immersiveengineering",
+        "path": "recipe/crafting/nugget_steel_to_ingot_steel"
+      },
+	  {
+        "namespace": "immersiveengineering",
+        "path": "recipe/crafting/ingot_steel_to_storage_steel"
+      },
       {
         "namespace": "halcyon",
         "path": "recipe/crafting/copper_ingot_from_nuggets"
