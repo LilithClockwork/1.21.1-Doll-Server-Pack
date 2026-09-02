@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "QGI",
+    " C "
+  ],
+  "key": {
+    "I": {
+      "item": "create:brass_ingot"
+    },
+    "A": {
+      "item": "minecraft:glass"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "G": {
+      "item": "clockwork:clockwork_gear"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "id": "clockwork:clockwork_potion_sprayer",
+    "count": 1
+  }
+}

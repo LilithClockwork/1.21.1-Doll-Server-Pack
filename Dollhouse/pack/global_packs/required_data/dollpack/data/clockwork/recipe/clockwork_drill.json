@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGG",
+    "ICG",
+    "IEE"
+  ],
+  "key": {
+    "G": {
+      "item": "create:brass_ingot"
+    },
+    "E": {
+      "item": "clockwork:clockwork_gear"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "id": "clockwork:clockwork_drill",
+    "count": 1
+  }
+}

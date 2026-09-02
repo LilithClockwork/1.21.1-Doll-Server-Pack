@@ -1421,6 +1421,42 @@ file = "global_packs/required_data/dollpack/data/c/tags/item/nuggets/copper.json
 hash = "b22b4241cea8ca0e25fab0022c527bb36d16fdf52fce44155b9b7fdac1a8993d"
 
 [[files]]
+file = "global_packs/required_data/dollpack/data/clockwork/recipe/barrel_crossbow.json"
+hash = "283dcac198750627d8356b1382f3b39ccba2e08988c585cc2decd22276e65af4"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/clockwork/recipe/clockwork_arrow.json"
+hash = "26daf109ea4878200b00ad3c28025de2ff6c926cbfb9cf9eeaaa479727639b72"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/clockwork/recipe/clockwork_drill.json"
+hash = "c58618ed6357819421b14d456b52d99712d609d36b645b69823f27d954d6556b"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/clockwork/recipe/clockwork_gear.json"
+hash = "7d752298c7f90bebd3a663398cff6dde841edb8afb78698aa23684d2df25f6c0"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/clockwork/recipe/clockwork_wings.json"
+hash = "6e7dad318716a7b996a73558a9794a526f593221b620fe1b3c9410478a4ccce3"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/clockwork/recipe/crossbow_barrel.json"
+hash = "6cf6d13eedc3e615bcd0e0a6491822750619153499e05ddd6a903e552b665561"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/clockwork/recipe/flamethrower.json"
+hash = "e2de921cdb474ddca003756fa31e85c3731cb07908e9127e3114890ee51893d1"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/clockwork/recipe/potion_sprayer.json"
+hash = "bc725d5601b0816363aec351b85c0d26db0f211041546e62ac4d97126c9be855"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/clockwork/recipe/scope_crossbow.json"
+hash = "b4b395b0d5757e6afc846688cc9f952591d1cf4c5ca02561135b684599fd9977"
+
+[[files]]
 file = "global_packs/required_data/dollpack/data/create/recipe/crushing/tuff.json"
 hash = "65815f78b4d6c46d3869828af49a8e1449f6910e848ed3821626c884749802a1"
 

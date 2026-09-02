@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GIG",
+    "ICI",
+    " B "
+  ],
+  "key": {
+    "I": {
+      "item": "create:brass_ingot"
+    },
+    "C": {
+      "item": "minecraft:crossbow"
+    },
+    "B": {
+      "item": "clockwork:crossbow_barrel"
+    },
+    "G": {
+      "item": "clockwork:clockwork_gear"
+    }
+  },
+  "result": {
+    "id": "clockwork:barrel_crossbow",
+    "count": 1
+  }
+}
