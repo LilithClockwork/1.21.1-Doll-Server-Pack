@@ -1313,6 +1313,18 @@ file = "config/weaversparadise-common.toml"
 hash = "6b62297b0da00d66b2f6410d4c4d7543f43ecf56cde7e9ec7a02cf2b7bbb18f4"
 
 [[files]]
+file = "config/witchery/base/general.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/witchery/vampires/general.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/witchery/werewolves/general.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "config/xaerohud.txt"
 hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 
