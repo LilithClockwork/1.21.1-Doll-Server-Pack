@@ -909,6 +909,14 @@ file = "config/eternal_starlight.json"
 hash = "a48018a327ee8a0933199574df44696bc30511618293db67b9d4d1a194ba1cf9"
 
 [[files]]
+file = "config/exmi/enable_config.json"
+hash = "5a94dcc89fc3158b9cb4e9a90a52f6c97129f3eccd438f59011b48eb68983448"
+
+[[files]]
+file = "config/exmi/irons_spellbooks.json"
+hash = "86e4b1ba24efec03033558eef2a07019ecb26fb35e747ccf744d3d1295b3e900"
+
+[[files]]
 file = "config/explorerscompass-client.toml"
 hash = "7d005b7e0bbbff0724725b6d801d6d6155b6c76720d14a08ababf6244b9c5661"
 
