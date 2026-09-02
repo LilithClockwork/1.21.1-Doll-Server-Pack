@@ -8,7 +8,9 @@
 		"quark:calcite_stairs",
 		"quark:calcite_slab",
 		"quark:calcite_wall",
-		"#eternal_starlight:wip"
+		"#eternal_starlight:wip",
+		"immersiveengineering:ingot_steel",
+		"immersiveengineering:nugget_steel"
 		
   ]
 }

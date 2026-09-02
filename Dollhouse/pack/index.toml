@@ -1010,7 +1010,7 @@ hash = "aeaafda832e766c40c8a74d32def27cf322ba59dd15264aea438c0b50a448ed7"
 
 [[files]]
 file = "config/immersiveengineering-startup.toml"
-hash = "b5b50d355bfff3aaebaeb1267506eab716f811e5e78fc965b2c30eb37ffaa180"
+hash = "d44e87b7ae1f6b1bd250a2dba8bf2135a74443cd648bc6d4d5e6f8dea6c91a3e"
 
 [[files]]
 file = "config/ironjetpacks-client.toml"
@@ -1414,11 +1414,19 @@ hash = "244c93eb091731fa0e0bfbda52f72ac7c8e2ced7b0f277212081ab29c5d41e4f"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "f3e7c0a45be5ebf50767d15776f733eda5374c6477cfc716fef7769c0593aa3e"
+hash = "e81e061a85cf815b0887c5fc5ec543eac6d17021ebd857407f0b1d7ef6471787"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/c/tags/item/ingots/steel.json"
+hash = "5b13c230a661fe33fb23ee3910720dc9948ea6550a78edd8e1203755685fd119"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/c/tags/item/nuggets/copper.json"
 hash = "b22b4241cea8ca0e25fab0022c527bb36d16fdf52fce44155b9b7fdac1a8993d"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/c/tags/item/nuggets/steel.json"
+hash = "8cb344cb2d6aaa973365aaf7c9ffa1ddad5a1efe1461fbffe4eca7fa35603c96"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/clockwork/recipe/barrel_crossbow.json"
@@ -1603,6 +1611,14 @@ hash = "eacda8b1d720cf447aee04324497e67283547d6b9e6d9bd9f8ac4e914b1f160a"
 [[files]]
 file = "global_packs/required_data/dollpack/data/handcrafted/recipe/warped_pillar_trim.json"
 hash = "8f75f9552dec18445d34e5748c95bb276701e42db143fa8d953e52a6fd99cbfb"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/immersiveengineering/recipe/smelting/ingot_steel_from_dust.json"
+hash = "bab10312d59b4776f385e053c01cd7dd4ff7c443c0978ed0ef727114186241da"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/immersiveengineering/recipe/smelting/ingot_steel_from_dust_from_blasting.json"
+hash = "699713d7bf6837e01da7175c50457bf8767f937f734b7c96c3fef01120dcce4a"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/minecraft/loot_tables/blocks/chiseled_bookshelf.json"
