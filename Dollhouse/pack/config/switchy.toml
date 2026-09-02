@@ -1,0 +1,29 @@
+# The texture ID avatar renderer to use in exports (for use in e.g. Utter)
+# default: https://vzge.me/bust/256/%s
+exportAvatarUrl = "https://vzge.me/bust/256/%s"
+
+# Toggles specific components instance-wide.
+# Enabled components can be disabled for just you via '/switchy components'
+# Disabling components on an existing save will cause data loss!
+[components]
+	"minecraft:effects" = true
+	"minecraft:health" = true
+	"minecraft:hunger/exhaustion" = true
+	"minecraft:hunger/food" = true
+	"minecraft:hunger/saturation" = true
+	"minecraft:inventory/ender_chest" = true
+	"minecraft:inventory/inventory" = true
+	"minecraft:location/dimension" = true
+	"minecraft:location/pitch" = true
+	"minecraft:location/pos" = true
+	"minecraft:location/yaw" = true
+	"minecraft:spawn/angle" = true
+	"minecraft:spawn/dimension" = true
+	"minecraft:spawn/forced" = true
+	"minecraft:spawn/x" = true
+	"minecraft:spawn/y" = true
+	"minecraft:spawn/z" = true
+	"minecraft:xp/level" = true
+	"minecraft:xp/progress" = true
+	"origins:origin" = true
+	"origins:powers" = true

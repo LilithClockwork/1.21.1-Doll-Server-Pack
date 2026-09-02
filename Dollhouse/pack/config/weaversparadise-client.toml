@@ -1,0 +1,20 @@
+#Display a message if Patchouli is not installed when joining the game
+patchouliWarning = true
+#Items that will prevent Thigh Highs from rendering
+thighHighsRestrictors = []
+#Items that will prevent Hand Warmers from rendering
+handWarmersRestrictors = []
+#Items that will prevent Pants from rendering
+pantsRestrictors = []
+#Items that will prevent Shirt from rendering
+shirtRestrictors = ["weaversparadise:niko_cosmetics"]
+#Items that will prevent Choker and it's trinkets from rendering
+chokerRestrictors = ["weaversparadise:felix_armor_jacket"]
+#Display a message if your mod version is outdated
+versionWarning = true
+#Items that will prevent Hats from rendering
+hatsRestrictors = []
+#Items that will prevent Skirts from rendering
+skirtsRestrictors = []
+#Should cosplay armor render fully, or use equipped armor to determine visible pieces
+fullArmor = false
