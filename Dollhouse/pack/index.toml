@@ -965,6 +965,30 @@ file = "config/global_packs.toml"
 hash = "e521baea8cde5a275585c7063fa3272b79a303c73e4efb1d509a638914e1299e"
 
 [[files]]
+file = "config/goety/goety-attributes.toml"
+hash = "fea63d11804ff709b439da2b4eb3f674e9ddfb6f580efe47e3d258ff1354fd06"
+
+[[files]]
+file = "config/goety/goety-brews.toml"
+hash = "0be1d2261cda26baf8501942a3171a9ccae23598966014e270500dedf575811a"
+
+[[files]]
+file = "config/goety/goety-items.toml"
+hash = "af6b4a530d4db89ab0f29078f3d5714c551e3ea826a302e88b2ee2f586c81ba8"
+
+[[files]]
+file = "config/goety/goety-mobs.toml"
+hash = "886345556694f46d162e76c2a839ab9c64f0d369112b75bc6e073b7fedd94269"
+
+[[files]]
+file = "config/goety/goety-spells.toml"
+hash = "23d5848911e3fd9c20c478d2da3b33041f946c407dc261c281e92daaf54bc0c1"
+
+[[files]]
+file = "config/goety/goety.toml"
+hash = "9e2b4d0278b2f18133567c8d9767717ebec93854ac3e488a6f8b040f92992a1f"
+
+[[files]]
 file = "config/halcyon-client.toml"
 hash = "ea110babf7e1ba411ef66a0e591cb6386d4ce2d08647cef468a0a0f42496c407"
 
