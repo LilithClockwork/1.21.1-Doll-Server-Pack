@@ -1097,6 +1097,26 @@ file = "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
 hash = "c9d0e8697d3605f175116e4ef5f42af27ed673f6865d9c3e04369f9c2881968f"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "5ea3d8e0aec2aa5102709271df10b31bd6c0064ab9291761233a6684519f8338"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "58136a951e935d4545b3a68b17bdbc47eec94f88d2fec932f3006b7991684bfe"
+
+[[files]]
 file = "config/jupiter.json"
 hash = "ac6415cb504a1cd8d129435e67e718b0f139613f378127f0f8f21ee61ca4ffe7"
 
