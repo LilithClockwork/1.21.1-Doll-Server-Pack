@@ -957,6 +957,10 @@ file = "config/fml.toml"
 hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 
 [[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
 file = "config/global_packs.toml"
 hash = "e521baea8cde5a275585c7063fa3272b79a303c73e4efb1d509a638914e1299e"
 
