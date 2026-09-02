@@ -1089,6 +1089,14 @@ file = "config/irons_spellbooks-server.toml"
 hash = "e8ee430b46e11cab65759daad24f738c3b4110d0986977af24eb600b5d9c3925"
 
 [[files]]
+file = "config/irons_spellbooks_spell_config/global_config.json"
+hash = "7a8fd5e37e183cccd59a72a4af0b9e1fe1b4d930cd034b2f11da7307a8741580"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
+hash = "c9d0e8697d3605f175116e4ef5f42af27ed673f6865d9c3e04369f9c2881968f"
+
+[[files]]
 file = "config/jupiter.json"
 hash = "ac6415cb504a1cd8d129435e67e718b0f139613f378127f0f8f21ee61ca4ffe7"
 
