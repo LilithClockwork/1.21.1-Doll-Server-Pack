@@ -1021,6 +1021,62 @@ file = "config/ironjetpacks-common.toml"
 hash = "4a1edb243c038f07376f7c4751481b55dcb5c60e2132a54a46843c1409f82f47"
 
 [[files]]
+file = "config/ironjetpacks/jetpacks/bronze.json"
+hash = "d29f702ce0174bceb8f10baf1c57694af57c96b090379d1efe62adb2d0d6358a"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/copper.json"
+hash = "dcd3f0200b1be985c803405c5500c787676a8f04af5e8bd0ffbc09148537f456"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/creative.json"
+hash = "e94d00d800399f8872223eb9ddd069af29cb0df9e723643716a97171f171aff2"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/diamond.json"
+hash = "a719da417fa7aad646f67946d9d3716ab88895bbf521e8e18e8c23aae24cbd3d"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/electrum.json"
+hash = "3a46088f043651b55c52fed1dc0f77912b04d4ad2ef1eb926120d8d0cecd83ee"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/emerald.json"
+hash = "5687b363fd77ba965ec532a34678703c014294a1e9f59e14362733ccb99aea6d"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/gold.json"
+hash = "c407a2533b907fae3430023892618cb7e727ae95164ba8603df3d967423d7430"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/invar.json"
+hash = "a203b15549154f5437fe82657dc75176c32e84db0033b626f18deb2d85fab204"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/iron.json"
+hash = "6f1b53141b3ccb9aa1ecb47d74e4c4445d8c0080c71643e4ce9d6d68e81ecfa7"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/platinum.json"
+hash = "43afc00f8ba6d9a0ee23102f4a03ce09c134d333e51bc193b37d9a5aa1bb9e6e"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/silver.json"
+hash = "8c31849e5d01c913c94bbd217674349b9df5b03a4b381cc810e92244c10394e8"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/steel.json"
+hash = "a4816aa4073bc6cb757958418d9aca7ab1a30c8aef95fb6db7f87c03f8045710"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/stone.json"
+hash = "eb21aadd404a1fe2b145defd81a4e46ce4e1da6eb618291dae778c9f42a08bc3"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/wood.json"
+hash = "f9061c501bf4b222c6d57f0933c946a5ae03ac66ccfe498d48fc094df015239b"
+
+[[files]]
 file = "config/irons_jewelry-server.toml"
 hash = "c1322190d23589bd63d45577b340904f45f73a246690b514d468e68f4b24d350"
 
