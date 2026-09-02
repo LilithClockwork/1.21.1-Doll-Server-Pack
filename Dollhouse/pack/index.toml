@@ -1569,6 +1569,10 @@ file = "global_packs/required_data/dollpack/data/dollpack/recipe/genderfluid_tra
 hash = "30ba226a9b45b753a481ddc641c0e115bcf573ef8bea186059cb79dd6add0b2a"
 
 [[files]]
+file = "global_packs/required_data/dollpack/data/dollpack/resonance_processor/eternal_starlight/budding_thioquartz.json"
+hash = "53eb9e480de14df178b41c18e83b6cfa88c8630fe171551ca4201ab865998a8b"
+
+[[files]]
 file = "global_packs/required_data/dollpack/data/dollpack/tags/item/all_saplings_but_jinglestem.json"
 hash = "a628bc77f697bc2301fa2131200ce6f119b5e95152763f4b018caa2295557e79"
 
@@ -1627,6 +1631,10 @@ hash = "699713d7bf6837e01da7175c50457bf8767f937f734b7c96c3fef01120dcce4a"
 [[files]]
 file = "global_packs/required_data/dollpack/data/minecraft/loot_tables/blocks/chiseled_bookshelf.json"
 hash = "d1c7c6a0491522068e6bfa16367d6ccc19af69f9cea2cd32322bcb4408f62945"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/minecraft/tags/block/mineable/pickaxe.json"
+hash = "bdada3b5e6f9c7f509f1001410957c0c5301d0b43870c1e4fea262bc466636da"
 
 [[files]]
 file = "global_packs/required_data/dollpack/data/pastel/advancement/midgame/collect_mob_head_using_treasure_hunter.json"

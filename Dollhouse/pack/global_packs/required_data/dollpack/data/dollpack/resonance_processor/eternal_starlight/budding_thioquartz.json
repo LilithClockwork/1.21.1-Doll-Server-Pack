@@ -1,0 +1,8 @@
+{
+  "type": "pastel:drop_self",
+  "block": {
+    "blocks": [
+      "eternal_starlight:budding_thioquartz"
+    ]
+  }
+}
