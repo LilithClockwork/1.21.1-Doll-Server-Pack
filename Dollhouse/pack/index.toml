@@ -1637,6 +1637,10 @@ file = "global_packs/required_data/dollpack/data/tempad/recipe/time_steel_shaped
 hash = "777a5e586e4fcd4c299cc758f7457ad783f6b2995a47c73e5da1dafe66b59c32"
 
 [[files]]
+file = "global_packs/required_data/dollpack/data/thaumon/recipes/ancient_stone_bricks.json"
+hash = "5b6c087e17cb93f0674d78fab25d41242a11e8821447e540f2ff7aa248bf2ca6"
+
+[[files]]
 file = "global_packs/required_data/dollpack/data/witchery/recipe/wood_ash.json"
 hash = "075fd6a2cf22221e4e96bd731d8b32a22addae2aa4d114fa4534206933c61b06"
 
