@@ -925,6 +925,10 @@ file = "config/explorerscompass-common.toml"
 hash = "22191fdff8219310dd35865ce1139c38b6c51f0d78126065562f7b88aae84f3a"
 
 [[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "83e7769447944aea7c3c535acf2114162c569d0b743348f6ee12c6fcdfcd622a"
+
+[[files]]
 file = "config/fantasticwings-server.toml"
 hash = "7c4ae3cf85dd4196da5ed7b72578438f131905a5c16fb662b51f800d13b3dc71"
 
