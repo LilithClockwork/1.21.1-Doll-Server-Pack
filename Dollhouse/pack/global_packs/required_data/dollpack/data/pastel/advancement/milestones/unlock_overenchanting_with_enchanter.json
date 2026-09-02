@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "had_revelation_of_impermanace": {
+      "trigger": "databank:has_advancement",
+      "conditions": {
+        "advancement": "pastel:midgame/crumble_midnight_aberration"
+      }
+    }
+  }
+}

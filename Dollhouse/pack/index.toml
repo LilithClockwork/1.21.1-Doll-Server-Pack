@@ -1633,6 +1633,10 @@ file = "global_packs/required_data/dollpack/data/pastel/advancement/midgame/coll
 hash = "c2faa9d7bb13f6bdc94048c9be0d18d6d9eee362df9da2013d839afdc4c7def6"
 
 [[files]]
+file = "global_packs/required_data/dollpack/data/pastel/advancement/milestones/unlock_overenchanting_with_enchanter.json"
+hash = "f9e0fcaf3ae9477a5e04ac0176e0e1fd4724ba059cf0fe881bca379964b7bb99"
+
+[[files]]
 file = "global_packs/required_data/dollpack/data/quark/recipe/building/crafting/vertslabs/calcite_vertical_slab.json"
 hash = "70a7c6966306d6129b6d1fa8940f479dc954a64d7e84aa74a4d314a2b8ee47f2"
 
