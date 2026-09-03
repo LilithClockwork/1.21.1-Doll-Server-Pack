@@ -2,7 +2,7 @@ Mods:
 Test Switchy, remove NeoSync if Switchy works with Cybernetics.
 Clockwork?
 Datapacks:
-Recipe for Origin changing orb.
+Recipe for Origin changing orb. (Done)
 Deconflict oregen (somehow miraculously unneeded)
 Change get mob head with treasure hunter advancement requirements so as to bypass the bug (yes?)
 Add Matrix Enchanting Tables recipe (yes)
