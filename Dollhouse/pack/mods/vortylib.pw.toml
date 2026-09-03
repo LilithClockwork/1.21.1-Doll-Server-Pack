@@ -1,13 +1,13 @@
 name = "VortyLib"
-filename = "vortylib-1.2.5.jar"
+filename = "vortylib-1.2.5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "401f5c7a07b4718f0edfc2ff5c4ab586828a495d"
+hash = "5b84bae2fd1d3d745d55487b6668e5392ce92e4a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8780237
+file-id = 8791392
 project-id = 1578928
