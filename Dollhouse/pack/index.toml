@@ -1686,7 +1686,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
-hash = "ed90b65c424e2af0597d2a39bc655ebdb5ef25c7f30e0d8af9c0eb5fdd172bba"
+hash = "c236c1d05b9381bc12527d06a1e8ec360e1df99652e93fac24073c6edd627d5a"
 metafile = true
 
 [[files]]
