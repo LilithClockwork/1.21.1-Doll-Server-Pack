@@ -1,13 +1,13 @@
 name = "Ad Astra"
-filename = "adastra-1.21.1-1.16.22-neoforge.jar"
+filename = "adastra-1.21.1-1.16.24-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3d514de02f7627be9a41cbeef2f3dbf9ef61c526"
+hash = "9a350a376e45f292ee6744cf98ad9feedf6b2e17"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8772898
+file-id = 8781137
 project-id = 635042
