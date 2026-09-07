@@ -1875,6 +1875,11 @@ hash = "8bcdb47cedd81a531c5aa2e8eb29b8fe072c8bf1a76ad7d09a83b07d04dff5cc"
 metafile = true
 
 [[files]]
+file = "mods/cynosure.pw.toml"
+hash = "1d264881da9ad85a34461b90c50782de27405742c1f84deb54a3c2bd4ce04f15"
+metafile = true
+
+[[files]]
 file = "mods/data-essence.pw.toml"
 hash = "b96a05df64a9e832174bf470b56abe66e8d0625ccba712fb8673d2a3a9a46721"
 metafile = true
@@ -1917,6 +1922,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
 hash = "08b5fe6bbf5980820af8addc37e5ee41e48756400d86f9f554222f27b3ccecb5"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "e1a38a1528d8193e98204425bd4eab963c65f962f96f5db84a047427a8675439"
 metafile = true
 
 [[files]]
