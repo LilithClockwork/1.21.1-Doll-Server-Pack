@@ -1,6 +1,9 @@
 Mods: 
 Test Switchy, remove NeoSync if Switchy works with Cybernetics.
-Clockwork?
+Clockwork? (yes)
+Add curios cosmetics slots
+Make the phantom origin green vingette removal resourcepack optional via flavours
+Set up flavours
 Datapacks:
 Recipe for Origin changing orb. (Done)
 Deconflict oregen (somehow miraculously unneeded)

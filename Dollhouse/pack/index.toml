@@ -1681,8 +1681,8 @@ file = "global_packs/required_data/dollpack/pack.mcmeta"
 hash = "d1ece6b121d85f90828ce99f2e0241430bba6f9709869d06ed99fea86826a4d5"
 
 [[files]]
-file = "global_packs/required_resources/resourcepacks_go_here"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "global_packs/required_resources/disable_phantom_overlay.zip"
+hash = "80bf1a14008ed42543594ffffbbdfde1a5f6a54f5ccbde96b41c9d1338377aaf"
 
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
