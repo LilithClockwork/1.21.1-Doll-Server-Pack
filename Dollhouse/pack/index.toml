@@ -1398,7 +1398,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yigd.json"
-hash = "6d0c13aa53aba21b50d32fb935553392551a42033dcedbc2b2e161228c9eadd5"
+hash = "fea73e70526dae88072f8779d39a06b2aa9aa4a26b2b32fe753faa1b82795d09"
 
 [[files]]
 file = "config/zeta-common.toml"

@@ -167,10 +167,10 @@
     "defaultAccessoriesDropRule": "PUT_IN_GRAVE",
     "enableTravelersBackpackCompat": true,
     "defaultTravelersBackpackDropRule": "PUT_IN_GRAVE",
-    "enableCuriosCompat": true,
-    "defaultCuriosDropRule": "KEEP",
-    "enableCosmeticArmorCompat": true,
-    "defaultCosmeticArmorDropRule": "KEEP"
+    "enableCuriosCompat": false,
+    "defaultCuriosDropRule": "DROP",
+    "enableCosmeticArmorCompat": false,
+    "defaultCosmeticArmorDropRule": "DROP"
   },
   "commandConfig": {
     "mainCommand": "yigd",
