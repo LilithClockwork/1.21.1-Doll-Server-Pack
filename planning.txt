@@ -3,6 +3,14 @@ Test Switchy, remove NeoSync if Switchy works with Cybernetics.
 Clockwork? (yes)
 Add curios cosmetics slots
 Make the phantom origin green vingette removal resourcepack optional via flavours
+Add configs for:
+- Estrogen
+- Exposure
+- Exposure Expanded
+-Starcatcher
+- Starcatcher Delight
+- Cynosure
+- Architectury API
 Set up flavours
 Datapacks:
 Recipe for Origin changing orb. (Done)
