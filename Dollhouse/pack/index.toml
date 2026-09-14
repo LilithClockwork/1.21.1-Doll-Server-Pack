@@ -1806,7 +1806,7 @@ hash = "760ffe2d3026639abe5bbee799f2dd6dee6a4c259c7e0d7b50ecc14dfffc4622"
 
 [[files]]
 file = "mods/clockwork.pw.toml"
-hash = "3a3ec3fb7749b07309075849697c81e813f6f4a066ff2bebc26f06a43cc54b93"
+hash = "ae878ffe61c5c3369f62c609ff299becfc35f25fb4e101f1aabb284b1b2a11a9"
 metafile = true
 
 [[files]]
