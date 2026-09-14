@@ -2280,7 +2280,7 @@ metafile = true
 
 [[files]]
 file = "mods/starcatcher.pw.toml"
-hash = "d480639612e15488724c1a78530bc77b916b7a6c5abd25a0d9af7124cae3f3cc"
+hash = "96fbc293ae1cfc65b9319e934da9f2cec1fceda0a19b448c1cd86fa45a9f1fce"
 metafile = true
 
 [[files]]
