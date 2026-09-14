@@ -29,6 +29,10 @@ file = "config/alchemancy-server.toml"
 hash = "faecc43bdc8289f39bf47ab5473de4b3288b10d92725a9cadf0139f790f1923a"
 
 [[files]]
+file = "config/anshar-server.toml"
+hash = "59657f2bafcc097d32b711113641e22cd0d56d2d6cdb3c7363fb2892021b0b1d"
+
+[[files]]
 file = "config/aquaculture-common.toml"
 hash = "e8d9fdd5fe9b62b1dc3019fdb9489406654f0336d05bc23f217a1152ad0efe24"
 
@@ -783,6 +787,10 @@ hash = "8e7861a1c13f1169b024f17922e99eed9e7b2c9799c949c00c51ebda216e56f9"
 [[files]]
 file = "config/brewinandchewin-common.toml"
 hash = "3601001dfe99416aa0cd6445802ceda8a7d3fe217c564b1d0ae0169097cea7bc"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 
 [[files]]
 file = "config/clockwork.toml"
@@ -1816,6 +1824,11 @@ hash = "bf25d280ec62a7f03be94edbd9487051f3bcf4bce9a8a12f021a2037a1fe2317"
 metafile = true
 
 [[files]]
+file = "mods/anshar.pw.toml"
+hash = "44fca8220044a07ba7df6259d4e4763bf024305977483cb34807a39d8a2ba4bb"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture-delight.pw.toml"
 hash = "918cbc479cfc5c66ee234bc3f71ee584c1ab596f0d88aaa59bf66ca3b404c5db"
 metafile = true
@@ -2102,6 +2115,11 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "a3a8e7c14c08cf3f12bf94f3efa86cc3b001fe4658540d94d687f18adc4fc9f4"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
 metafile = true
 
 [[files]]
