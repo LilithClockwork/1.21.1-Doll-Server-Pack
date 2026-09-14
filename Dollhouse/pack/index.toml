@@ -1721,6 +1721,22 @@ file = "global_packs/required_data/dollpack/data/handcrafted/recipe/warped_pilla
 hash = "8f75f9552dec18445d34e5748c95bb276701e42db143fa8d953e52a6fd99cbfb"
 
 [[files]]
+file = "global_packs/required_data/dollpack/data/hybrid_aquatic/structure/whale_fall_1.nbt"
+hash = "cd6d2eac2b3dc6bec188a8e60ace63720f1214a5b3196a228d190c5ad76182af"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/hybrid_aquatic/structure/whale_fall_2.nbt"
+hash = "50455794754b74f295210250689f25859ffacae4687e80ee7b5216214567d723"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/hybrid_aquatic/structure/whale_fall_3.nbt"
+hash = "ec131f0aca20b28923784f2520552389df313ef57b3f4a549c90b1e94e03fa0e"
+
+[[files]]
+file = "global_packs/required_data/dollpack/data/hybrid_aquatic/tags/worldgen/biome/has_whale_fall.json"
+hash = "937981eb3c372b62b0fe4f8800fd928ea4849015aeb5411e6d0a6549d0b643aa"
+
+[[files]]
 file = "global_packs/required_data/dollpack/data/immersiveengineering/recipe/smelting/ingot_steel_from_dust.json"
 hash = "bab10312d59b4776f385e053c01cd7dd4ff7c443c0978ed0ef727114186241da"
 
