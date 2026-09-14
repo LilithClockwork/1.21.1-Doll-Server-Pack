@@ -905,6 +905,18 @@ file = "config/emi_ores-client.json"
 hash = "2a142816c58a75278aaf6fa283dc5e3b8e7fbaf8887d04fe29b200414d1aaa42"
 
 [[files]]
+file = "config/estrogen/client.json5"
+hash = "064bfc5725bee3b9d458c11cc47274f957ec72d1cd54dfe9665f061034c0b2b0"
+
+[[files]]
+file = "config/estrogen/common.json5"
+hash = "ef50d6a5922d30e1ae570ccc2b256076e5fea8aebf9419e740c9352f913b899c"
+
+[[files]]
+file = "config/estrogen/server.json5"
+hash = "f80b6ff0e8ddc9e6116cd555462290081c673e33630b923d6f35977f48e5e078"
+
+[[files]]
 file = "config/eternal_starlight.json"
 hash = "a48018a327ee8a0933199574df44696bc30511618293db67b9d4d1a194ba1cf9"
 
