@@ -1,13 +1,13 @@
 name = "Hybrid Delights"
-filename = "[1.21.1-Neoforge] Hybrid Delights 1.2.1 Hotfix.jar"
+filename = "hybrid_delights-neoforge-1.21.1-1.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "80f4526d1af55ed27a286f8b9ba572f93b67d898"
+hash = "b9673b4ced767789960028bc4e60d28d6fc74a36"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8611365
+file-id = 8872170
 project-id = 1259032
