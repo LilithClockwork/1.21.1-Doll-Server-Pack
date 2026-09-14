@@ -2146,7 +2146,7 @@ metafile = true
 
 [[files]]
 file = "mods/modular-backpacks.pw.toml"
-hash = "c43951c4481db4f25bdd3a65e0e6db123101375b26dd8e895e9464dd470ee09e"
+hash = "3c2db2f45a161c704091bcc5b0ec44f704e462f04286f06436696cd19669dc3c"
 metafile = true
 
 [[files]]
