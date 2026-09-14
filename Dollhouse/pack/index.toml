@@ -1237,6 +1237,10 @@ file = "config/sable-server.toml"
 hash = "9c3e9012ea23ca1449fdfc7df7a8134d4f0f2eacc46f8f8c1ab9ccb2b4510783"
 
 [[files]]
+file = "config/sheepish.toml"
+hash = "73a0d1ccc99c79b9ed294aa6cbb87ee52b27c664e40f78b7c45a041db8b8a665"
+
+[[files]]
 file = "config/silentgear-client.toml"
 hash = "e79d1931dfddd25dfd2969cc9e45d77b36968aee9d1116fa8c0321b1b99c172a"
 
@@ -1765,6 +1769,10 @@ hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
 
 [[files]]
+file = "mods/cerulean-1.2.0.jar"
+hash = "760ffe2d3026639abe5bbee799f2dd6dee6a4c259c7e0d7b50ecc14dfffc4622"
+
+[[files]]
 file = "mods/clockwork.pw.toml"
 hash = "3a3ec3fb7749b07309075849697c81e813f6f4a066ff2bebc26f06a43cc54b93"
 metafile = true
@@ -2213,6 +2221,10 @@ metafile = true
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
+
+[[files]]
+file = "mods/sheepish-13.0.0.jar"
+hash = "5611ff5c6b6e4322bba2217aada94391659b0b271656b16242acf03a30fb2cca"
 
 [[files]]
 file = "mods/silent-gear.pw.toml"

@@ -1,0 +1,45 @@
+# Allow players to eat food regardless of hunger bar fullness
+# default: false
+alwaysEat = false
+# The max stack size to be displayed in Create's various filter UIs
+# default: 64
+createFilterMaxStackSize = 64
+# Disable the god-forsaken Enigmatic Eye from Enigmatic Legacy Plus
+# default: false
+disableEnigmaticEye = false
+# Disable the welcome message from More Creeps and Weirdos Revival
+# default: false
+disableMoreCreepsWelcomeMsg = false
+# Disable increasing repair cost on armor and tools
+# default: false
+disableRepairCost = false
+# Disable RGBCraft's photosensitivity warning
+# default: false
+disableRgbCraftStartupWarning = false
+# Disable Sodium's core shader resource pack warning
+# default: false
+disableSodiumCoreShaderWarning = false
+# Disable custom splash texts from Blueprint, FrozenLib, and NeoForge
+# default: false
+disableSplashes = false
+# From Fabrication: "When dropping items of the same type they don't merge into a bigger stack."
+# default: false
+droppedItemsDoNotStack = false
+# Mixin to EMI impl to return the correct mod name for certain items (Enchanted Books, Potions, ...)
+# default: false
+emiHacks = true
+# Enable Emojiful's pixelated Twemoji set, without the "Blobs", "Discord", or "Pepe" categories
+# Requires "Emojiful.EmojiTypes.custom = false" in "emojiful-client.toml"
+# default: false
+emojifulPixelatedTwemoji = false
+# Mixin to Forgified Fabric Transfer API impl to only ignore vanilla BlockEntities when registering fallback item storage behavior
+# default: false
+fabricTransferApiHacks = false
+# Prevent AbstractHorse offspring from having lesser stats than either of its parents
+# default: false
+horseStonks = true
+# Enchantments to ignore when randomly enchanting loot
+ignoredEnchantments = ["nova_structures:boss_behavior", "nova_structures:shulker_boss", "nova_structures:shulker_miniboss", "pastel:big_catch", "pastel:clovers_favor", "pastel:disarming", "pastel:exuberance", "pastel:first_strike", "pastel:foundry", "pastel:improved_critical", "pastel:indestructible", "pastel:inertia", "pastel:inexorable", "pastel:inventory_insertion", "pastel:pest_control", "pastel:razing", "pastel:resonance", "pastel:serendipity_reel", "pastel:sniping", "pastel:steadfast", "pastel:tight_grip", "pastel:treasure_hunter", "pastel:voiding"]
+# Prevent all entities from trampling farmland
+# default: false
+noTrample = true
