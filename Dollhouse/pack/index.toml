@@ -1301,6 +1301,14 @@ file = "config/sodium-options.json"
 hash = "4056d1df6ceaf99ce534f5f61bf978bc2f6d62381deed617cf361e180e1f1ca4"
 
 [[files]]
+file = "config/starcatcher-client.toml"
+hash = "6f5ef6cc585812f8479fc9da21a48885fb9a628467f2851dfda8c28ac93ddbab"
+
+[[files]]
+file = "config/starcatcher-server.toml"
+hash = "7a152440425670427b9d4c30485f79e38be9aa809b7b02e8f7331f249161973d"
+
+[[files]]
 file = "config/submarine_hull.json"
 hash = "5e634034627a940191da062976c3f3bd8ee3af859a36355b3900ac716309f235"
 
