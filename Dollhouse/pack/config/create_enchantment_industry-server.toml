@@ -151,7 +151,7 @@
 		#[@cui:RequiresReload:server]
 		# Default: 1000
 		# Range: > 5000
-		mechanicalGrindstoneFluidCapacity = 4000
+		mechanicalGrindstoneFluidCapacity = 5000
 
 	#.
 	#Parameters and abilities of enchantment operating components

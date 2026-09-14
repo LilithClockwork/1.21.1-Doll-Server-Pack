@@ -24,11 +24,6 @@ requireVanityImplant = false
 # Default: 0
 # Range: 0 ~ 4
 allowedPermissionLevel = 0
-#Preserve the player's normal skin/model on Corpse mod corpses.
-#When enabled, Create-Cybernetics corpse mutilation and skeleton overlays are suppressed.
-#This server rule is synchronized so every modded client sees the same corpse appearance.
-preserveCorpseAppearance = false
 #Visually remove missing arms and legs from player skins.
 #Supports vanilla Steve/wide and Alex/slim skins and is synchronized for all modded clients.
-#CPM models use their source skin/model mapping where CPM exposes it.
 hideMissingLimbs = false

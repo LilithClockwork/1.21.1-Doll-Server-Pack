@@ -233,6 +233,26 @@ file = "config/attributefix/createcybernetics/xp_gain_multiplier.json"
 hash = "405081740b1b0de3eb15c79a6f681167d871d40042131489a9f260555668cc8a"
 
 [[files]]
+file = "config/attributefix/estrogen/boob_growing_start_time.json"
+hash = "d83976a7b1d8096dd5fec751a130f6aa54c044e9694d2ed6712b5f76620705ab"
+
+[[files]]
+file = "config/attributefix/estrogen/boob_initial_size.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/estrogen/dash_level.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/estrogen/fall_damage_resistance.json"
+hash = "eef573c49a6e5515f15cc322478ac841853433e87f2dc5feeb2d67dc52b7419b"
+
+[[files]]
+file = "config/attributefix/estrogen/show_boobs.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
 file = "config/attributefix/eternal_starlight/generic.enemy_follow_range_multiplier.json"
 hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 
@@ -689,6 +709,26 @@ file = "config/attributefix/sable/player.sub_level_punch_strength.json"
 hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
 
 [[files]]
+file = "config/attributefix/starcatcher/base_decay_multiplier.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/starcatcher/handle_rotation_speed_multiplier.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/starcatcher/penalty_multiplier.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/starcatcher/required_score_multiplier.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/starcatcher/vanishing_rate_multiplier.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
 file = "config/attributefix/witchery/generic.damage_cap.json"
 hash = "3c74ea2409bda517d0ff616d2b1e1267866824ef45036dc911ff71032051dd69"
 
@@ -826,7 +866,7 @@ hash = "ba7ae48de21489764763fbcfa70a0751114cec08af0d0dfebee03af1f5892ca1"
 
 [[files]]
 file = "config/create_enchantment_industry-server.toml"
-hash = "02a32ec52f672bf5512be1541d8750b1c4bfa632b5e9ef95679a5815c82e85f8"
+hash = "f7a826d96d0f1360a648f3957b85790ef31e3ebd36684f49c1ce24d0307a3270"
 
 [[files]]
 file = "config/create_submarine-common.toml"
@@ -878,7 +918,7 @@ hash = "c60a5e8160fe97d48f2238e38cb8d78e42a2fcb947702eafb11235b80359f199"
 
 [[files]]
 file = "config/cyberneticsvanity-server.toml"
-hash = "69f086af238fd31c649a4f3318ddff9c9c408367b3eb9c2297c1053c186fb66b"
+hash = "85c1cd2d4f122d2e0f0ab8a92b940792602f3caf77517420f318dc525b7de1b5"
 
 [[files]]
 file = "config/databank-client.toml"
@@ -934,7 +974,7 @@ hash = "7d005b7e0bbbff0724725b6d801d6d6155b6c76720d14a08ababf6244b9c5661"
 
 [[files]]
 file = "config/explorerscompass-common.toml"
-hash = "22191fdff8219310dd35865ce1139c38b6c51f0d78126065562f7b88aae84f3a"
+hash = "2487e55b65ec217296d0fc458decab6f8b010e10562de0da439a476e05842492"
 
 [[files]]
 file = "config/exposure-client.toml"
@@ -950,7 +990,11 @@ hash = "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "83e7769447944aea7c3c535acf2114162c569d0b743348f6ee12c6fcdfcd622a"
+hash = "e4ccac18d342201cc55f7d025f28b264da7bc72fdaa326d3c9f1630f7633599e"
+
+[[files]]
+file = "config/fancytabsections-client.toml"
+hash = "ea131dd5dfb9b2853dec9332f6bae7c3d5550cc89989996ac19a6c016b751423"
 
 [[files]]
 file = "config/fantasticwings-server.toml"
@@ -1134,11 +1178,11 @@ hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "5ea3d8e0aec2aa5102709271df10b31bd6c0064ab9291761233a6684519f8338"
+hash = "eb3eea7770e4840d10cca0441061b4ab609cf2ed788a568a67dfdad3bb54edfd"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "58136a951e935d4545b3a68b17bdbc47eec94f88d2fec932f3006b7991684bfe"
+hash = "1b5278212a5edb7c88b7bcb7e209f9a3bb7b464db431162f758e815fde38d171"
 
 [[files]]
 file = "config/jupiter.json"
@@ -1147,6 +1191,14 @@ hash = "ac6415cb504a1cd8d129435e67e718b0f139613f378127f0f8f21ee61ca4ffe7"
 [[files]]
 file = "config/knightlib.toml"
 hash = "98eba404d0b4eb6b4b92a1c66bda64617a050fa8e8952cbae73f4ba35deaec29"
+
+[[files]]
+file = "config/kritter.json5"
+hash = "b47f839be4d54affccadb5967c8582ae699461d05b8aa86a49a86f7c48135657"
+
+[[files]]
+file = "config/libtooltips-client.toml"
+hash = "16f3c870c09819d23fdf138f630852ed523a8a92c0101ab215d78fa38f3412a0"
 
 [[files]]
 file = "config/lithostitched.json"
@@ -1178,7 +1230,7 @@ hash = "7eb804cf4f281218ea942a71fce9156ffbd60a17515ce7e611a11cffc815d01b"
 
 [[files]]
 file = "config/modular_backpacks-server.toml"
-hash = "dad3fca4fb56fbc13c517aae6d9e32f0f4f5f8de037c5570720d013b9c46833b"
+hash = "253f2a534c85b52556205f5d21e4e72a1ba601995255ce59a2dab2dbc6299590"
 
 [[files]]
 file = "config/morepropulsion-server.toml"
@@ -1230,7 +1282,7 @@ hash = "f7892742494899f3d7169cbefd1969c7030f1555bfc277e0a0a8fc6b9160b053"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "274edd25b64cb3fd7d2e350699fc0bbe4d177c8e309ed4990f96704b1ba46565"
+hash = "110b32b1ae4469bd4aa5ac656d65664eea5ee762dd149e4fd2a9740465ece40f"
 
 [[files]]
 file = "config/refinedstorage-common.toml"
@@ -1259,6 +1311,14 @@ hash = "43d5cdfc1997a8aaabfc301e746b773319999d348661a1a7a04b37a70fda93c1"
 [[files]]
 file = "config/sable-server.toml"
 hash = "9c3e9012ea23ca1449fdfc7df7a8134d4f0f2eacc46f8f8c1ab9ccb2b4510783"
+
+[[files]]
+file = "config/selling_bin-client.toml"
+hash = "638b02fb58f2a76cc7f281fd8e40129ff47f758ee9bc3e735b2fcfade03e204a"
+
+[[files]]
+file = "config/selling_bin-server.toml"
+hash = "4066c5339cd925118e1a307727a9e37386a325fd257bdbd8f9298655571c95cd"
 
 [[files]]
 file = "config/sheepish.toml"
@@ -1325,6 +1385,10 @@ file = "config/tempad.jsonc"
 hash = "32b0d1f5e52bb76914242af080a7b5acf177d44cb194eba7ae4969c73a85757d"
 
 [[files]]
+file = "config/tinymultiblocklib-client.toml"
+hash = "44dd5679b3a9f72255877a2203b27722ae61044024b4d05cc14245174514c9d9"
+
+[[files]]
 file = "config/tmrv_plugins.json5"
 hash = "35ea0f6185a1a2abbd16a256d6a1b9072efcfe06d2e8f79bdee099bd3eb3852c"
 
@@ -1338,15 +1402,15 @@ hash = "a58cd217d173dfee9eb0e4ecdce85ca3671b24418b20fb7638a120c3607cb924"
 
 [[files]]
 file = "config/vortylib-client.toml"
-hash = "043f47cc596886e76e1056c850b946b5c31fbeefc13c54bed444f92e54a95dd2"
+hash = "59cc592eaf3744af5c2005458f815ea2a1f22bc15c248e8775942a24c850dfbd"
 
 [[files]]
 file = "config/weaversparadise-client.toml"
-hash = "af1399ab7163d6e10eb29f889505ff057c48f057173a5440b1b6a0f06074df36"
+hash = "d69bc611810d9270399a57906794ba7672a8380b81a408bbd16b7b819bf95b06"
 
 [[files]]
 file = "config/weaversparadise-common.toml"
-hash = "6b62297b0da00d66b2f6410d4c4d7543f43ecf56cde7e9ec7a02cf2b7bbb18f4"
+hash = "089e8ae36b81f4ea1d72a29e599d292b9e9ab1aba1a66a3ec9f5a1e0ec29c027"
 
 [[files]]
 file = "config/witchery/base/general.json"
@@ -1434,7 +1498,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yigd.json"
-hash = "fea73e70526dae88072f8779d39a06b2aa9aa4a26b2b32fe753faa1b82795d09"
+hash = "3a34a7c704ac468e80d1fac37916eaff4f70fb9fe3d828ea02571469411b32dc"
 
 [[files]]
 file = "config/zeta-common.toml"

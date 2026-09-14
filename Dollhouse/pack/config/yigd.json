@@ -83,7 +83,7 @@
         "key": "pastel:imbrifer",
         "value": -315
       },
-	  {
+      {
         "key": "eternal_starlight:starlight",
         "value": -60
       },
@@ -134,11 +134,11 @@
           "key": "minecraft:the_end",
           "value": "minecraft:end_stone"
         },
-		{
+        {
           "key": "pastel:imbrifer",
           "value": "pastel:blackslag"
         },
-		{
+        {
           "key": "eternal_starlight:starlight",
           "value": "eternal_starlight:nightfall_dirt"
         },

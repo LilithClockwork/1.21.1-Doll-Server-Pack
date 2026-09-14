@@ -90,7 +90,7 @@
 	#Phantom sack slots
 	# Default: 24
 	# Range: 3 ~ 27
-	phantomSackSlots = 30
+	phantomSackSlots = 27
 
 [climbing]
 	#Set false to disable entirely
@@ -218,3 +218,7 @@
 	enableCuriosBackSlot = true
 	#If true, backpacks can be placed into Curios slots
 	enableBackpacksInCurios = true
+
+[elytra]
+	#Set false to prevent elytras from being used as backpack modules
+	enableElytraModules = true

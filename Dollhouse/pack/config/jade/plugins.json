@@ -65,6 +65,10 @@
     "workstation": true,
     "timedoor": true
   },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,

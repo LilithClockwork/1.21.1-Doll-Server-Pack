@@ -8,3 +8,7 @@ uiTheme = 0
 # Default: 0
 # Range: 0 ~ 2
 panoramaTheme = 0
+#Whether config button is rendered in main menu
+menuConfigButton = false
+#Whether config button is rendered in pause menu
+pauseConfigButton = false
