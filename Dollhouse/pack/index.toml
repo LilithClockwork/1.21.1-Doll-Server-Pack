@@ -2320,7 +2320,7 @@ metafile = true
 
 [[files]]
 file = "mods/vortylib.pw.toml"
-hash = "cc00854cd4ae32fbf0ff0f09e393cd5355df635b57ef647f2ea507182b51155f"
+hash = "3695ebaab1fff6b7aef6e22831420173cf10cbd2d279db4739904a36222b35f5"
 metafile = true
 
 [[files]]
