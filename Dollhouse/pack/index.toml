@@ -2056,7 +2056,7 @@ metafile = true
 
 [[files]]
 file = "mods/hybrid-api.pw.toml"
-hash = "7617dc92469786fc1bacd9a313915ad6a568c7d62fadd23401eb977628b52f5e"
+hash = "b931dd022255d8a25ddb25e2589875dba835baf548e73bcab3c50d655816d71f"
 metafile = true
 
 [[files]]
