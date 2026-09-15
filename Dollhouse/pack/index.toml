@@ -1904,7 +1904,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -2265,6 +2265,11 @@ metafile = true
 [[files]]
 file = "mods/neosync.pw.toml"
 hash = "e132e53a62d9c5bdeb827b92e0d1c2ab6d69f34004160711ddb7a2884760d905"
+metafile = true
+
+[[files]]
+file = "mods/now-playing.pw.toml"
+hash = "700d7eec503d4cca8287a26354699301c0087b387598695d240bece175a3637b"
 metafile = true
 
 [[files]]
