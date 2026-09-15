@@ -1378,7 +1378,7 @@ hash = "7a152440425670427b9d4c30485f79e38be9aa809b7b02e8f7331f249161973d"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "5e634034627a940191da062976c3f3bd8ee3af859a36355b3900ac716309f235"
+hash = "5c4e850cd57d895a3701b80ec6fd01c45a7a0b178c65d8fdf0f3206bd0b122f8"
 
 [[files]]
 file = "config/switchy.toml"
@@ -2265,6 +2265,11 @@ metafile = true
 [[files]]
 file = "mods/neosync.pw.toml"
 hash = "e132e53a62d9c5bdeb827b92e0d1c2ab6d69f34004160711ddb7a2884760d905"
+metafile = true
+
+[[files]]
+file = "mods/operation-starcleave.pw.toml"
+hash = "12d3eebff7efbe933c5c1b34c52d5dc2c8e6977140683f4039f9338b8635718b"
 metafile = true
 
 [[files]]

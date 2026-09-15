@@ -1,0 +1,13 @@
+name = "Operation: Starcleave"
+filename = "operation_starcleave-neoforge-mc1.21.1-0.2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6EXJCB46/versions/kZzenr10/operation_starcleave-neoforge-mc1.21.1-0.2.0.3.jar"
+hash-format = "sha512"
+hash = "44173972db5473d706ce20db779dea5b943afe0983a44fc2d04f1cd7da694b5d1794be6e404473569d677648640bb9d903ef26eb036d0d99941bcefe557e60d7"
+
+[update]
+[update.modrinth]
+mod-id = "6EXJCB46"
+version = "kZzenr10"
