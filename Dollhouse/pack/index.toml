@@ -2393,7 +2393,7 @@ metafile = true
 
 [[files]]
 file = "mods/starcatchers-delight.pw.toml"
-hash = "f62879170d2b77e7d1c628c22b89ba3c8c744e40209b22a964b616d30f649ce2"
+hash = "ec2a3d1b17d819c8e9607dc01323faf223c29a45eb8a2ab13efe21729a751f87"
 metafile = true
 
 [[files]]
