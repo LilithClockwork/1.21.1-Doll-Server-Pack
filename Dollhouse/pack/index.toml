@@ -2224,7 +2224,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "85b032d6fc2208b2ff0c3a247328ea9a89bace96a7cfca30757b566955406ed3"
+hash = "50ba38ecb113e5ca8bc7c39ee2533f29c13501fc952e119af73be05e3e6debd7"
 metafile = true
 
 [[files]]
