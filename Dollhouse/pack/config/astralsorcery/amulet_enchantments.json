@@ -1,0 +1,430 @@
+[
+  {
+    "enchantment": "goety:absorb",
+    "weight": 3
+  },
+  {
+    "enchantment": "eternal_starlight:abyssal_touch",
+    "weight": 6
+  },
+  {
+    "enchantment": "minecraft:aqua_affinity",
+    "weight": 2
+  },
+  {
+    "enchantment": "modular_backpacks:backprotection",
+    "weight": 10
+  },
+  {
+    "enchantment": "farmersdelight:backstabbing",
+    "weight": 5
+  },
+  {
+    "enchantment": "minecraft:bane_of_arthropods",
+    "weight": 5
+  },
+  {
+    "enchantment": "pastel:big_catch",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:blast_protection",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:breach",
+    "weight": 2
+  },
+  {
+    "enchantment": "weaversparadise:breathing_exercise",
+    "weight": 8
+  },
+  {
+    "enchantment": "goety:burning",
+    "weight": 5
+  },
+  {
+    "enchantment": "create:capacity",
+    "weight": 10
+  },
+  {
+    "enchantment": "minecraft:channeling",
+    "weight": 1
+  },
+  {
+    "enchantment": "pastel:clovers_favor",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:density",
+    "weight": 5
+  },
+  {
+    "enchantment": "minecraft:depth_strider",
+    "weight": 2
+  },
+  {
+    "enchantment": "pastel:disarming",
+    "weight": 1
+  },
+  {
+    "enchantment": "goety:duration",
+    "weight": 5
+  },
+  {
+    "enchantment": "minecraft:efficiency",
+    "weight": 10
+  },
+  {
+    "enchantment": "pastel:exuberance",
+    "weight": 5
+  },
+  {
+    "enchantment": "goety:fealty",
+    "weight": 1
+  },
+  {
+    "enchantment": "eternal_starlight:fearless",
+    "weight": 10
+  },
+  {
+    "enchantment": "minecraft:feather_falling",
+    "weight": 5
+  },
+  {
+    "enchantment": "eternal_starlight:fertile",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:fire_aspect",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:fire_protection",
+    "weight": 5
+  },
+  {
+    "enchantment": "pastel:first_strike",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:flame",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:fortune",
+    "weight": 2
+  },
+  {
+    "enchantment": "pastel:foundry",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:frost_walker",
+    "weight": 2
+  },
+  {
+    "enchantment": "eternal_starlight:gathering",
+    "weight": 3
+  },
+  {
+    "enchantment": "eternal_starlight:glacial_sowing",
+    "weight": 5
+  },
+  {
+    "enchantment": "weaversparadise:graceful",
+    "weight": 8
+  },
+  {
+    "enchantment": "goety:hardy",
+    "weight": 1
+  },
+  {
+    "enchantment": "createcybernetics:harvester",
+    "weight": 3
+  },
+  {
+    "enchantment": "eternal_starlight:homing",
+    "weight": 4
+  },
+  {
+    "enchantment": "goety:homing",
+    "weight": 5
+  },
+  {
+    "enchantment": "minecraft:impaling",
+    "weight": 2
+  },
+  {
+    "enchantment": "pastel:improved_critical",
+    "weight": 2
+  },
+  {
+    "enchantment": "pastel:indestructible",
+    "weight": 2
+  },
+  {
+    "enchantment": "pastel:inertia",
+    "weight": 1
+  },
+  {
+    "enchantment": "pastel:inexorable",
+    "weight": 1
+  },
+  {
+    "enchantment": "minecraft:infinity",
+    "weight": 1
+  },
+  {
+    "enchantment": "pastel:inventory_insertion",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:knockback",
+    "weight": 5
+  },
+  {
+    "enchantment": "modular_backpacks:linking",
+    "weight": 1
+  },
+  {
+    "enchantment": "minecraft:looting",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:loyalty",
+    "weight": 5
+  },
+  {
+    "enchantment": "minecraft:luck_of_the_sea",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:lure",
+    "weight": 2
+  },
+  {
+    "enchantment": "goety:magnet",
+    "weight": 3
+  },
+  {
+    "enchantment": "minecraft:mending",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:multishot",
+    "weight": 2
+  },
+  {
+    "enchantment": "eternal_starlight:overheat",
+    "weight": 5
+  },
+  {
+    "enchantment": "modular_backpacks:packing",
+    "weight": 1
+  },
+  {
+    "enchantment": "pastel:pest_control",
+    "weight": 1
+  },
+  {
+    "enchantment": "minecraft:piercing",
+    "weight": 10
+  },
+  {
+    "enchantment": "eternal_starlight:poisoning",
+    "weight": 10
+  },
+  {
+    "enchantment": "create:potato_recovery",
+    "weight": 10
+  },
+  {
+    "enchantment": "goety:potency",
+    "weight": 5
+  },
+  {
+    "enchantment": "minecraft:power",
+    "weight": 10
+  },
+  {
+    "enchantment": "eternal_starlight:precision",
+    "weight": 10
+  },
+  {
+    "enchantment": "minecraft:projectile_protection",
+    "weight": 5
+  },
+  {
+    "enchantment": "minecraft:protection",
+    "weight": 10
+  },
+  {
+    "enchantment": "minecraft:punch",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:quick_charge",
+    "weight": 5
+  },
+  {
+    "enchantment": "goety:radius",
+    "weight": 5
+  },
+  {
+    "enchantment": "goety:range",
+    "weight": 5
+  },
+  {
+    "enchantment": "modular_backpacks:rationing",
+    "weight": 1
+  },
+  {
+    "enchantment": "pastel:razing",
+    "weight": 5
+  },
+  {
+    "enchantment": "pastel:resonance",
+    "weight": 1
+  },
+  {
+    "enchantment": "minecraft:respiration",
+    "weight": 2
+  },
+  {
+    "enchantment": "dungeonsdelight:ricochet",
+    "weight": 3
+  },
+  {
+    "enchantment": "minecraft:riptide",
+    "weight": 2
+  },
+  {
+    "enchantment": "goety:royalty",
+    "weight": 1
+  },
+  {
+    "enchantment": "astralsorcery:scorching_heat",
+    "weight": 1
+  },
+  {
+    "enchantment": "pastel:serendipity_reel",
+    "weight": 2
+  },
+  {
+    "enchantment": "benssharks:serrated",
+    "weight": 2
+  },
+  {
+    "enchantment": "dungeonsdelight:serrated_strike",
+    "weight": 5
+  },
+  {
+    "enchantment": "minecraft:sharpness",
+    "weight": 10
+  },
+  {
+    "enchantment": "minecraft:silk_touch",
+    "weight": 1
+  },
+  {
+    "enchantment": "minecraft:smite",
+    "weight": 5
+  },
+  {
+    "enchantment": "weaversparadise:soft_and_cozy",
+    "weight": 8
+  },
+  {
+    "enchantment": "goety:soul_eater",
+    "weight": 5
+  },
+  {
+    "enchantment": "eternal_starlight:soul_snatcher",
+    "weight": 10
+  },
+  {
+    "enchantment": "minecraft:soul_speed",
+    "weight": 1
+  },
+  {
+    "enchantment": "yigd:soulbound",
+    "weight": 5
+  },
+  {
+    "enchantment": "weaversparadise:sound_muffler",
+    "weight": 8
+  },
+  {
+    "enchantment": "pastel:steadfast",
+    "weight": 10
+  },
+  {
+    "enchantment": "minecraft:sweeping_edge",
+    "weight": 2
+  },
+  {
+    "enchantment": "eternal_starlight:swift_lash",
+    "weight": 10
+  },
+  {
+    "enchantment": "minecraft:swift_sneak",
+    "weight": 1
+  },
+  {
+    "enchantment": "eternal_starlight:tearing",
+    "weight": 10
+  },
+  {
+    "enchantment": "minecraft:thorns",
+    "weight": 1
+  },
+  {
+    "enchantment": "pastel:tight_grip",
+    "weight": 2
+  },
+  {
+    "enchantment": "weaversparadise:tough_as_nails",
+    "weight": 8
+  },
+  {
+    "enchantment": "eternal_starlight:tracing",
+    "weight": 5
+  },
+  {
+    "enchantment": "pastel:treasure_hunter",
+    "weight": 2
+  },
+  {
+    "enchantment": "minecraft:unbreaking",
+    "weight": 5
+  },
+  {
+    "enchantment": "estrogen:uwufy_curse",
+    "weight": 1
+  },
+  {
+    "enchantment": "weaversparadise:vampirism",
+    "weight": 8
+  },
+  {
+    "enchantment": "goety:velocity",
+    "weight": 5
+  },
+  {
+    "enchantment": "goety:wanting",
+    "weight": 3
+  },
+  {
+    "enchantment": "origins:water_protection",
+    "weight": 1
+  },
+  {
+    "enchantment": "weaversparadise:water_strider",
+    "weight": 8
+  },
+  {
+    "enchantment": "minecraft:wind_burst",
+    "weight": 2
+  }
+]

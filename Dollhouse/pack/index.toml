@@ -37,6 +37,30 @@ file = "config/aquaculture-common.toml"
 hash = "e8d9fdd5fe9b62b1dc3019fdb9489406654f0336d05bc23f217a1152ad0efe24"
 
 [[files]]
+file = "config/astralsorcery-client.toml"
+hash = "61970bc8be4bb50d908898f4642de491f0bb84b90ddc3726bdd744da50335d24"
+
+[[files]]
+file = "config/astralsorcery-startup.toml"
+hash = "02595745a06b9761e39383e8e4d3e224ba7803aaf3b40c6d134585b080197e9c"
+
+[[files]]
+file = "config/astralsorcery.toml"
+hash = "5e070cbf16967692f6c9dacddbc93957674575ee9db7f53f314011710d544ca3"
+
+[[files]]
+file = "config/astralsorcery/amulet_enchantments.json"
+hash = "d602e06d4ed86e643944d6f8e8cd00c17bc6504ab9c432452a7de5a0ab88d010"
+
+[[files]]
+file = "config/astralsorcery/known_trees.json"
+hash = "e0201640af8e2539582d8cb5dd8d17085139288c618915f39c559c18b605f3f6"
+
+[[files]]
+file = "config/astralsorcery/perk_gem_modifiers.json"
+hash = "bc3a67dce4bddf078d77a386611355dda6fc1aebcf72f41458ccd44098bd1434"
+
+[[files]]
 file = "config/attributefix/aces_spell_utils/evasive.json"
 hash = "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6"
 
@@ -1844,6 +1868,11 @@ hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
+file = "mods/astral-sorcery.pw.toml"
+hash = "20d221d2f7b0729bff35b9faf181c8b144be0e0f8ba43f1187d7283ae87e85a3"
+metafile = true
+
+[[files]]
 file = "mods/atlas-api.pw.toml"
 hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
 metafile = true
@@ -2270,6 +2299,11 @@ metafile = true
 [[files]]
 file = "mods/now-playing.pw.toml"
 hash = "700d7eec503d4cca8287a26354699301c0087b387598695d240bece175a3637b"
+metafile = true
+
+[[files]]
+file = "mods/observerlib.pw.toml"
+hash = "ff407a1e06ce5a70fd10e60a9c822a69d2722d8d1b5751918ff65145a976036e"
 metafile = true
 
 [[files]]
