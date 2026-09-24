@@ -5,7 +5,7 @@ beam_client_check = false
 #How often (in ticks) to scan for players intersecting the beacon
 # Default: 5
 # Range: 1 ~ 5
-beam_check_period = 20
+beam_check_period = 5
 
 #Category for End Crystal related things
 ["End Crystal options"]

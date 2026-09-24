@@ -30,7 +30,7 @@ hash = "faecc43bdc8289f39bf47ab5473de4b3288b10d92725a9cadf0139f790f1923a"
 
 [[files]]
 file = "config/anshar-server.toml"
-hash = "59657f2bafcc097d32b711113641e22cd0d56d2d6cdb3c7363fb2892021b0b1d"
+hash = "966a71aa44f088ad8df941e6425c15330b8174a27ed7b71c49d5ec1b6b05c9ae"
 
 [[files]]
 file = "config/aquaculture-common.toml"
@@ -278,6 +278,10 @@ hash = "eef573c49a6e5515f15cc322478ac841853433e87f2dc5feeb2d67dc52b7419b"
 
 [[files]]
 file = "config/attributefix/estrogen/show_boobs.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/eternal_starlight/generic.cold_resistance.json"
 hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
 
 [[files]]
@@ -910,7 +914,7 @@ hash = "5533867669881ca8279ea1a2da6e2879853d49c6b8463da7205ee87a14183973"
 
 [[files]]
 file = "config/createaddition-common.toml"
-hash = "6c7e224d6e0b84d9509ffd6114f0eb2639a4b29de696d6d0d1583e5413476227"
+hash = "1f51e5e04074bedb54e1641454cc74d6990bf59e09c5ebdfe1036f7d0f61bfa0"
 
 [[files]]
 file = "config/createcybernetics-common.toml"
@@ -966,7 +970,7 @@ hash = "154f75418e83d657784c47759d3617c76cb437bfc7ff8a6d4ca491a33d998d31"
 
 [[files]]
 file = "config/emi.css"
-hash = "28071f0aa974ddddf637c5f3c85b38de7521700cc0e6a38cb355305133eecc11"
+hash = "798ae3ea853ad89a0925075f3dcc1e0a99862ae64e4418bdf15b329bf581cee6"
 
 [[files]]
 file = "config/emi_loot_config.toml"
@@ -1010,7 +1014,7 @@ hash = "2487e55b65ec217296d0fc458decab6f8b010e10562de0da439a476e05842492"
 
 [[files]]
 file = "config/exposure-client.toml"
-hash = "cd8c2d6ef4dd823580b0e735f3f0049d5be109928520ec7e1d72f8668a16afef"
+hash = "ab6a48660102673366372ba647ba1ae73be566e0d7277b7e2dac0c947b6434e3"
 
 [[files]]
 file = "config/exposure-common.toml"
@@ -1022,7 +1026,7 @@ hash = "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "e4ccac18d342201cc55f7d025f28b264da7bc72fdaa326d3c9f1630f7633599e"
+hash = "d7ae4a454e5de1aa25c4968268b9182b5474c43a479f460ef9f52af4e195703f"
 
 [[files]]
 file = "config/fancytabsections-client.toml"
@@ -1066,7 +1070,7 @@ hash = "e521baea8cde5a275585c7063fa3272b79a303c73e4efb1d509a638914e1299e"
 
 [[files]]
 file = "config/goety/goety-attributes.toml"
-hash = "fea63d11804ff709b439da2b4eb3f674e9ddfb6f580efe47e3d258ff1354fd06"
+hash = "23bfc085f366b73b48ac1f51cc91e4594a55e8a71fecb0b69de74641ec53bceb"
 
 [[files]]
 file = "config/goety/goety-brews.toml"
@@ -1086,7 +1090,7 @@ hash = "23d5848911e3fd9c20c478d2da3b33041f946c407dc261c281e92daaf54bc0c1"
 
 [[files]]
 file = "config/goety/goety.toml"
-hash = "9e2b4d0278b2f18133567c8d9767717ebec93854ac3e488a6f8b040f92992a1f"
+hash = "bce52bdc143a8ee95eb32ff55dc72aa81c17dbe208938a9aa92b009d71a99d9a"
 
 [[files]]
 file = "config/halcyon-client.toml"
@@ -1242,7 +1246,7 @@ hash = "4da5bc00c2cc7db774e16f6905929303bfca802367d49133ba9742a6330238ad"
 
 [[files]]
 file = "config/lootr-common.toml"
-hash = "6b0b442181abfe38c1df175b3a404957e684e3a6fc6ac1d9f76c2a40b630c570"
+hash = "a7158a8acd381687490241e91916fbc3eeb322ed3c905a16b944ecb5379c8d50"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -1293,6 +1297,10 @@ file = "config/neoforge-server.toml"
 hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 
 [[files]]
+file = "config/now-playing.json"
+hash = "e009819fca7afa1c63e2162e50d05c2c07e3be0a0759d35384e00635e21be672"
+
+[[files]]
 file = "config/offroad-server.toml"
 hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
 
@@ -1314,7 +1322,7 @@ hash = "f7892742494899f3d7169cbefd1969c7030f1555bfc277e0a0a8fc6b9160b053"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "110b32b1ae4469bd4aa5ac656d65664eea5ee762dd149e4fd2a9740465ece40f"
+hash = "c51da54ac7ddfac9236a18468b4ae3201c7fee0a880ec70d0a1d30c4897cd6dd"
 
 [[files]]
 file = "config/refinedstorage-common.toml"
