@@ -1,13 +1,13 @@
 name = "NeoSync"
-filename = "NeoSync-1.21.1-1.7.0.jar"
+filename = "NeoSync-1.21.1-1.7.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8502e870375e46b1f51e5c1541849ff6c442ee48"
+hash = "1d6ca22144b95ad4218e0ee870205decc6022425"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8857432
+file-id = 8941952
 project-id = 1521718

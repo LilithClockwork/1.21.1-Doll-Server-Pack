@@ -1,13 +1,13 @@
 name = "Weavers Paradise"
-filename = "weaversparadise-1.6.2.3.jar"
+filename = "weaversparadise-1.6.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "27dfb8dfc0bdea3a2a7133b5754a336d5963d612"
+hash = "667ff31aa61505fc6ac86711be079bccb016b23a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8895234
+file-id = 8958170
 project-id = 1334789
