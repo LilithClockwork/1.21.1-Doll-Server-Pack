@@ -85,11 +85,390 @@
   {
     "logBlocks": [],
     "logTags": [
-      "minecraft:oak_logs"
+      "quark:azalea_logs"
     ],
     "leafBlocks": [
       "minecraft:azalea_leaves",
       "minecraft:flowering_azalea_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "goety:haunted_logs"
+    ],
+    "leafBlocks": [],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "goety:rotten_logs"
+    ],
+    "leafBlocks": [
+      "goety:rotten_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "goety:windswept_logs"
+    ],
+    "leafBlocks": [
+      "goety:windswept_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "goety:pine_logs"
+    ],
+    "leafBlocks": [
+      "goety:pine_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "goety:chorus_logs"
+    ],
+    "leafBlocks": [
+      "goety:chorus_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "eternal_starlight:lunar_logs"
+    ],
+    "leafBlocks": [
+      "eternal_starlight:lunar_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "eternal_starlight:northland_logs"
+    ],
+    "leafBlocks": [
+      "eternal_starlight:northland_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [
+	"eternal_starlight:banyin_roots",
+	"eternal_starlight:muddy_banyin_roots"
+	],
+    "logTags": [
+      "eternal_starlight:banyin_logs"
+    ],
+    "leafBlocks": [
+      "eternal_starlight:banyin_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "eternal_starlight:scarlet_logs"
+    ],
+    "leafBlocks": [
+      "eternal_starlight:scarlet_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "eternal_starlight:torreya_logs"
+    ],
+    "leafBlocks": [
+      "eternal_starlight:torreya_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "eternal_starlight:jinglestem_logs"
+    ],
+    "leafBlocks": [],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "eternal_starlight:cradlewood_logs"
+    ],
+    "leafBlocks": [
+      "eternal_starlight:cradlewood_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "silentgear:netherwood_logs"
+    ],
+    "leafBlocks": [
+      "silentgear:netherwood_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:cyan_logs"
+    ],
+    "leafBlocks": [
+      "pastel:cyan_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:light_blue_logs"
+    ],
+    "leafBlocks": [
+      "pastel:light_blue_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:blue_logs"
+    ],
+    "leafBlocks": [
+      "pastel:blue_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:purple_logs"
+    ],
+    "leafBlocks": [
+      "pastel:purple_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:magenta_logs"
+    ],
+    "leafBlocks": [
+      "pastel:magenta_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:pink_logs"
+    ],
+    "leafBlocks": [
+      "pastel:pink_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:orange_logs"
+    ],
+    "leafBlocks": [
+      "pastel:orange_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:yellow_logs"
+    ],
+    "leafBlocks": [
+      "pastel:yellow_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:lime_logs"
+    ],
+    "leafBlocks": [
+      "pastel:lime_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:green_logs"
+    ],
+    "leafBlocks": [
+      "pastel:green_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:brown_logs"
+    ],
+    "leafBlocks": [
+      "pastel:brown_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:black_logs"
+    ],
+    "leafBlocks": [
+      "pastel:black_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:gray_logs"
+    ],
+    "leafBlocks": [
+      "pastel:gray_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:light_gray_logs"
+    ],
+    "leafBlocks": [
+      "pastel:light_gray_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:white_logs"
+    ],
+    "leafBlocks": [
+      "pastel:white_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "pastel:weeping_gala_logs"
+    ],
+    "leafBlocks": [
+      "pastel:weeping_gala_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "quark:blossom_logs"
+    ],
+    "leafBlocks": [
+      "goety:blue_blossom_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "quark:blossom_logs"
+    ],
+    "leafBlocks": [
+      "goety:lavender_blossom_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "quark:blossom_logs"
+    ],
+    "leafBlocks": [
+      "goety:orange_blossom_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "quark:blossom_logs"
+    ],
+    "leafBlocks": [
+      "goety:yellow_blossom_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "quark:blossom_logs"
+    ],
+    "leafBlocks": [
+      "goety:red_blossom_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "quark:ancient_logs"
+    ],
+    "leafBlocks": [
+      "quark:ancient_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "c:hawthorn_logs"
+    ],
+    "leafBlocks": [
+      "goety:hawthorn_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "c:alder_logs"
+    ],
+    "leafBlocks": [
+      "goety:alder_leaves"
+    ],
+    "leafTags": []
+  },
+  {
+    "logBlocks": [],
+    "logTags": [
+      "c:rowan_logs"
+    ],
+    "leafBlocks": [
+      "goety:rowan_leaves"
     ],
     "leafTags": []
   }

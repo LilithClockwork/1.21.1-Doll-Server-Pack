@@ -42,11 +42,11 @@ hash = "61970bc8be4bb50d908898f4642de491f0bb84b90ddc3726bdd744da50335d24"
 
 [[files]]
 file = "config/astralsorcery-startup.toml"
-hash = "02595745a06b9761e39383e8e4d3e224ba7803aaf3b40c6d134585b080197e9c"
+hash = "1b78ea811cc1e591d2db7f3d5bbf35f2b95f2fa41091468cc506905d8726d1a6"
 
 [[files]]
 file = "config/astralsorcery.toml"
-hash = "5e070cbf16967692f6c9dacddbc93957674575ee9db7f53f314011710d544ca3"
+hash = "baa55e5483beb9fce62139f3d66c021baa8921152edc69a02969c90c4727843d"
 
 [[files]]
 file = "config/astralsorcery/amulet_enchantments.json"
@@ -54,7 +54,7 @@ hash = "d602e06d4ed86e643944d6f8e8cd00c17bc6504ab9c432452a7de5a0ab88d010"
 
 [[files]]
 file = "config/astralsorcery/known_trees.json"
-hash = "e0201640af8e2539582d8cb5dd8d17085139288c618915f39c559c18b605f3f6"
+hash = "d58094b5c2af817cabac4d1169bb5dc6c58745b97f8ff8b46b88dd980f02d125"
 
 [[files]]
 file = "config/astralsorcery/perk_gem_modifiers.json"
