@@ -945,6 +945,10 @@ file = "config/curios-client.toml"
 hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
 
 [[files]]
+file = "config/curios-common.toml"
+hash = "f548024ab72423c69732b031b6c212d364c5d01687a2f90154def0d644ba99d9"
+
+[[files]]
 file = "config/curios-server.toml"
 hash = "10002ec9366c21b5a90ca6830abc262e35ab07cfa26bb4a3df1d812930b13981"
 

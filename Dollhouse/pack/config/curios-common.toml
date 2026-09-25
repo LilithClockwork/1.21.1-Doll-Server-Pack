@@ -1,0 +1,7 @@
+#List of slots to create or modify.
+#See documentation for syntax: https://docs.illusivesoulworks.com/curios/configuration#slot-configuration
+#
+slots = ["id=feet;add_cosmetic=true", "id=thighs;size=2;add_cosmetic=true", "id=hands;add_cosmetic=true", "id=sheath;add_cosmetic=true", "id=pants;add_cosmetic=true", "id=ring;add_cosmetic=true", "id=back;add_cosmetic=true", "id=body;add_cosmetic=true", "id=curio;size=1;add_cosmetic=true", "id=head;add_cosmetic=true", "id=legwear;add_cosmetic=true", "id=spellbook;add_cosmetic=true", "id=gloves;add_cosmetic=true", "id=pin;add_cosmetic=true", "id=armor_cosmetics;add_cosmetic=true", "id=belt;add_cosmetic=true", "id=pigment_palette;add_cosmetic=true", "id=necklace;add_cosmetic=true", "id=bracelet;add_cosmetic=true", "id=choker_trinket;add_cosmetic=true", "id=face;add_cosmetic=true", "id=charm;add_cosmetic=true", "id=upperwear;add_cosmetic=true", "id=cape;add_cosmetic=true"]
+
+
+
