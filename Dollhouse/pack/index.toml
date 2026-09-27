@@ -1881,7 +1881,7 @@ metafile = true
 
 [[files]]
 file = "mods/astral-sorcery.pw.toml"
-hash = "20d221d2f7b0729bff35b9faf181c8b144be0e0f8ba43f1187d7283ae87e85a3"
+hash = "c7a0dad47dcc9cdc0238647878725c68e0666060c22471bf7eb915d4643a9663"
 metafile = true
 
 [[files]]
@@ -1896,7 +1896,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "9f4c82355a37e196e66eb74d83ae28b5bfd6fa76cf2146db4dedfae5837dbe20"
+hash = "62f1b5b5a3c06cb852c27d0a9e2efb5ecc474c99c9bf0419821f6e7449a242af"
 metafile = true
 
 [[files]]
@@ -2225,7 +2225,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "91ffa77e2328847bdf943370f28eff4b179685ac3c2f3d4b949046a63001ae70"
+hash = "3f8f749b654d18560d45dfb160e839566f72d9150e86f7f881c5e205f5660c55"
 metafile = true
 
 [[files]]
@@ -2265,7 +2265,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "50ba38ecb113e5ca8bc7c39ee2533f29c13501fc952e119af73be05e3e6debd7"
+hash = "ff152357ebb175e8e8c58ecda4f9814d398c5668f3311b0ad6a4afcb1dc26d13"
 metafile = true
 
 [[files]]
@@ -2280,7 +2280,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "405c6c3e6dab57d5b2ec774b7a66f6412d2433b4eca11bac200eea8f14443564"
+hash = "fbda79a507db8950e0cb1366bf6bab367b2fdb661781c79bee87706019874c5b"
 metafile = true
 
 [[files]]
