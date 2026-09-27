@@ -1,6 +1,9 @@
 Mods: 
 Test Switchy, remove NeoSync if Switchy works with Cybernetics.
 Clockwork? (yes)
+
+for aeronautics: analog audio, diesel generators (bergentruck), aeroworks (baby blimp)
+
 Add curios cosmetics slots
 Make the phantom origin green vingette removal resourcepack optional via flavours
 Add configs for:
