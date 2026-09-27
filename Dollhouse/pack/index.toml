@@ -1841,8 +1841,9 @@ file = "global_packs/required_data/dollpack/pack.mcmeta"
 hash = "d1ece6b121d85f90828ce99f2e0241430bba6f9709869d06ed99fea86826a4d5"
 
 [[files]]
-file = "global_packs/required_resources/disable_phantom_overlay.zip"
-hash = "80bf1a14008ed42543594ffffbbdfde1a5f6a54f5ccbde96b41c9d1338377aaf"
+file = "global_packs/required_resources/dvo.pw.toml"
+hash = "26473802fb0399287c888333b33fd0b0d1a82b138de02c7633f965d0cb0f20e2"
+metafile = true
 
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
@@ -2509,4 +2510,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "337cdfb3cbf24a5d4c099f3a208a65cf5924188cd7f8790e41fd3798c3674163"
+hash = "c416a0e48907c4e15d94425f3a6fa0bb4783adbfe6f7cf1e6d38c6aa8fa290ea"

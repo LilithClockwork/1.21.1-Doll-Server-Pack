@@ -24,6 +24,19 @@ id = "figura_off"
 name = "No"
 description = "Do not install Figura."
 
+[flavor_groups.dvo]
+name = "Disable Phantom Overlay resourcepack"
+description = "Resourcepack to disable the overbearing green vingette overlay of the Phantom origin."
+side = "client"
+[[flavor_groups.dvo.choices]]
+id = "dvo_on"
+name = "Yes"
+description = "Adds the Disable Phantom Overlay resourcepack."
+[[flavor_groups.dvo.choices]]
+id = "dvo_off"
+name = "No"
+description = "Does not add the Disable Phantom Overlay resourcepack."
+
 [flavor_groups.mousetweaks]
 name = "Mouse Tweaks"
 description = "Basic QoL mod to allow easily click-drag grabbing and even depositing of items as well as scrolling items between inventories."
@@ -55,6 +68,8 @@ description = "Do not install Now Playing."
 flavors = "sodium_on"
 [metafile.figura]
 flavors = "figura_on"
+[metafile.dvo]
+flavors = "dvo_on"
 [metafile.mouse-tweaks]
 flavors = "mousetweaks_on"
 [metafile.now-playing]
