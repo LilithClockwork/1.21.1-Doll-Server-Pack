@@ -921,6 +921,18 @@ file = "config/createcybernetics-common.toml"
 hash = "56b6f5e3bcc2b43985b89805ec6dca39661b18f9ff56a9657a75774abb9baea7"
 
 [[files]]
+file = "config/createdieselgenerators-client.toml"
+hash = "2f1d8f05b215da49383ae8a04ffadcb12202830a6cb2fbada26caaed9ce35dec"
+
+[[files]]
+file = "config/createdieselgenerators-common.toml"
+hash = "9745e0b82765ee9ac86c4340a941e1f26c10b2da19296928d99169fc36dfea1a"
+
+[[files]]
+file = "config/createdieselgenerators-server.toml"
+hash = "57951f76c761679597e7bfe68f19c7246ec3935043a7f634b7063048e536c956"
+
+[[files]]
 file = "config/createpropulsion-client.toml"
 hash = "358b7cf92369e7bf7c2df5bfaa16cbb64238c0020461c9d23472d9355cf765bd"
 
@@ -1997,6 +2009,11 @@ metafile = true
 [[files]]
 file = "mods/create-deep-seas.pw.toml"
 hash = "96b3a6fcba1cbf8d976211fb2d13f934e0586ed6b80f0f4bed1a4b4ffe9a2a70"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "c12d2dc7c116f12a8f321b1c5fcd3a0231eb06dcebfe4e08231b91c915abc337"
 metafile = true
 
 [[files]]

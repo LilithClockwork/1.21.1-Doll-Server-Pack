@@ -5,7 +5,7 @@ Clockwork? (yes)
 for aeronautics: analog audio, diesel generators (bergentruck), aeroworks (baby blimp)
 
 Add curios cosmetics slots
-Make the phantom origin green vingette removal resourcepack optional via flavours
+Make the phantom origin green vingette removal resourcepack optional via flavours (done)
 Add configs for:
 Set up flavours
 Datapacks:
