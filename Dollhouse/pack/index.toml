@@ -2547,5 +2547,9 @@ hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
 
 [[files]]
+file = "schematics/bergentruck.nbt"
+hash = "3b3b44b014fd044589daed2c51651fa7b07d216c7e717caf7fc2e985099cb314"
+
+[[files]]
 file = "unsup.toml"
 hash = "c416a0e48907c4e15d94425f3a6fa0bb4783adbfe6f7cf1e6d38c6aa8fa290ea"
