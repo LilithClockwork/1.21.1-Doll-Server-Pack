@@ -29,6 +29,22 @@ file = "config/alchemancy-server.toml"
 hash = "faecc43bdc8289f39bf47ab5473de4b3288b10d92725a9cadf0139f790f1923a"
 
 [[files]]
+file = "config/analogaudio/analogaudio.client.toml"
+hash = "46fc3677ba2264d3fb6a790975224caf3e5c11aba1711908f6d4b3cb33cc808a"
+
+[[files]]
+file = "config/analogaudio/analogaudio.fileserver.toml"
+hash = "8a8c3ffce960dc88f2ddaeb3867b6a3724eb501e4851e672a53861f5b700cec4"
+
+[[files]]
+file = "config/analogaudio/analogaudio.server.toml"
+hash = "d6d7499fb0ad4122511bb4f26913b8023f31b525ea7a45c85f61886b31dbe78b"
+
+[[files]]
+file = "config/analoglib/analoglib.client.toml"
+hash = "b440ef818e3078419377b41f37a03dc2956ac6f81b8185b0bb51ab95ae6afa1c"
+
+[[files]]
 file = "config/anshar-server.toml"
 hash = "966a71aa44f088ad8df941e6425c15330b8174a27ed7b71c49d5ec1b6b05c9ae"
 
@@ -1870,6 +1886,11 @@ metafile = true
 [[files]]
 file = "mods/alchemancy.pw.toml"
 hash = "bf25d280ec62a7f03be94edbd9487051f3bcf4bce9a8a12f021a2037a1fe2317"
+metafile = true
+
+[[files]]
+file = "mods/analog-audio.pw.toml"
+hash = "58115d643a48c36267b1a41771371eab5fc9dc744ad1b9f4f6fe3ffcd9c1d563"
 metafile = true
 
 [[files]]
