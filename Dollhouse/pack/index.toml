@@ -2343,11 +2343,6 @@ hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
 metafile = true
 
 [[files]]
-file = "mods/neosync.pw.toml"
-hash = "ce593211467cd0a5253dbf25a3f2d837bbe482e3094480fc53e96d83a5ac0266"
-metafile = true
-
-[[files]]
 file = "mods/now-playing.pw.toml"
 hash = "700d7eec503d4cca8287a26354699301c0087b387598695d240bece175a3637b"
 metafile = true
