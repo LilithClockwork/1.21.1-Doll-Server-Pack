@@ -1,6 +1,6 @@
 name = "dvo"
 filename = "disable_phantom_overlay.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/LilithClockwork/1.21.1-Doll-Server-Pack/refs/heads/main/Dollhouse/extra/disable_phantom_overlay.zip"

@@ -1870,7 +1870,7 @@ hash = "d1ece6b121d85f90828ce99f2e0241430bba6f9709869d06ed99fea86826a4d5"
 
 [[files]]
 file = "global_packs/required_resources/dvo.pw.toml"
-hash = "26473802fb0399287c888333b33fd0b0d1a82b138de02c7633f965d0cb0f20e2"
+hash = "6a652e1db6f6df290a2cbe34efaf12d6bde8a2ecc5160734dd7b18d712fa115b"
 metafile = true
 
 [[files]]
