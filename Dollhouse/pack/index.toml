@@ -1449,6 +1449,10 @@ file = "config/starcatcher-server.toml"
 hash = "7a152440425670427b9d4c30485f79e38be9aa809b7b02e8f7331f249161973d"
 
 [[files]]
+file = "config/styled-nicknames.json"
+hash = "8c0dd9af4e632e975be65b0fbdc13951235020f4f247a4c816876c29178fb323"
+
+[[files]]
 file = "config/submarine_hull.json"
 hash = "99f24ab67aa2d0dd9df68ee25386c0a39f041886068e608d15c4679f9b96ef54"
 
@@ -2491,6 +2495,11 @@ metafile = true
 [[files]]
 file = "mods/starcatchers-delight.pw.toml"
 hash = "ec2a3d1b17d819c8e9607dc01323faf223c29a45eb8a2ab13efe21729a751f87"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames-unofficial-neoforge.pw.toml"
+hash = "a05fab22efac8380044afb11b3cec5f9162a41331dcf321c52c5f136aeeb2f14"
 metafile = true
 
 [[files]]
