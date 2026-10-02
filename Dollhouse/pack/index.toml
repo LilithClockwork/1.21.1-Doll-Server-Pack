@@ -25,6 +25,10 @@ file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
 [[files]]
+file = "config/akashictome-common.toml"
+hash = "cdb4d2b78511f74a6b3e003bf6321ddac3e114ed2bd05982aa1ed22e308c657b"
+
+[[files]]
 file = "config/alchemancy-client.toml"
 hash = "2141e904a71e78ed30edeadd7a93df13ed6e2ef8a6236fa533eb7f7c02b21b18"
 
@@ -1902,6 +1906,11 @@ metafile = true
 [[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "eec26a02ae733113e66a324e471eb01c24fb8739804592cd5c65c8d6a9ee9a72"
+metafile = true
+
+[[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "039ecee245a68300feddca1ea7c7c98de9420cde01fbf32d9e01a1ff79e6c80f"
 metafile = true
 
 [[files]]
