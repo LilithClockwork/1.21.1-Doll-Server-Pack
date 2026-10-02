@@ -1505,6 +1505,38 @@
     "maxWaterDepth": 33,
     "implosionChance": 0.8
   },
+  "aeroworks:control_desk": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:control_stand": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:copycat_control_desk": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:copycat_control_stand": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:gyroscope": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:joystick": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "aeroworks:mechanical_servo": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:stepper_servo": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
   "alchemancy:alchemancy_catalyst": {
     "maxWaterDepth": 7,
     "implosionChance": 0.85
@@ -1555,6 +1587,14 @@
   },
   "alchemancy:sculk_bud": {
     "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "analogaudio:cassette_deck": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.835
+  },
+  "analogaudio:radio": {
+    "maxWaterDepth": 8,
     "implosionChance": 0.85
   },
   "aquaculture:farmland": {
@@ -1608,6 +1648,290 @@
   "aquaculturedelight:fish_roll_medley_7": {
     "maxWaterDepth": 19,
     "implosionChance": 0.85
+  },
+  "astralsorcery:altar_illumination": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:altar_luminance": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:altar_radiance": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:altar_resonance": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:aquamarine_shale": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:attunement_altar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:cave_illuminator": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:celestial_crystal_cluster": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "astralsorcery:celestial_gateway": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "astralsorcery:chalice": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "astralsorcery:flare_light": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:focus_relay": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:gem_crystal_cluster": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "astralsorcery:glimmer_amaranth": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:hyacinth": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:infused_wood": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "astralsorcery:infused_wood_arch": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "astralsorcery:infused_wood_column": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "astralsorcery:infused_wood_engraved": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "astralsorcery:infused_wood_enriched": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "astralsorcery:infused_wood_infused": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "astralsorcery:infused_wood_planks": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "astralsorcery:infused_wood_slab": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "astralsorcery:infused_wood_stairs": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "astralsorcery:infuser": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:iris": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:lens": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:lightwell": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:liquid_starlight": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "astralsorcery:lumen_alchemy_array": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:lumen_array": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:lumen_crystal_cluster": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "astralsorcery:lumen_crystallizer": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:lumen_filament": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:marble_arch": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:marble_bricks": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:marble_chiseled": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:marble_engraved": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:marble_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:marble_raw": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:marble_runed": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:marble_slab": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:marble_stairs": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:orchid": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:potted_glimmer_amaranth": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:potted_hyacinth": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:potted_iris": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:potted_orchid": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:potted_protea": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:potted_thistle": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:prism": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:protea": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:raw_starmetal_block": {
+    "maxWaterDepth": 161,
+    "implosionChance": 0.05
+  },
+  "astralsorcery:rock_crystal_ore": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "astralsorcery:sooty_marble_arch": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:sooty_marble_bricks": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:sooty_marble_chiseled": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:sooty_marble_engraved": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:sooty_marble_pillar": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:sooty_marble_raw": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:sooty_marble_runed": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:sooty_marble_slab": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:sooty_marble_stairs": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.5966667
+  },
+  "astralsorcery:starlight_focus_celestial_crystal": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "astralsorcery:starlight_focus_rock_crystal": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "astralsorcery:starmetal_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "astralsorcery:stellar_filament": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "astralsorcery:thistle": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "astralsorcery:translucent_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "astralsorcery:translucent_tree": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "astralsorcery:tree_beacon": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
   },
   "azurelib:lightblock": {
     "maxWaterDepth": 1,
@@ -5381,6 +5705,10 @@
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
+  "createaddition:electric_pump": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
   "createaddition:electrum_block": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
@@ -5568,6 +5896,262 @@
   "createcybernetics:titaniumore_block": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
+  },
+  "createdieselgenerators:andesite_girder": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:andesite_girder_encased_shaft": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:asphalt_block": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createdieselgenerators:asphalt_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createdieselgenerators:asphalt_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createdieselgenerators:basin_lid": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:biodiesel": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:black_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:black_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:blue_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:blue_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:brown_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:brown_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:bulk_fermenter": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:burner": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:canister": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:chemical_turret": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:chip_wood_beam": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:chip_wood_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:chip_wood_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:chip_wood_stairs": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "createdieselgenerators:crude_oil": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:cyan_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:cyan_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:diesel": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:diesel_engine": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:distillation_tank": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:ethanol": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:gasoline": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:gray_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:gray_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:green_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:green_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:huge_diesel_engine": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:large_diesel_engine": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:light_blue_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:light_blue_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:light_gray_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:light_gray_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:lime_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:lime_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:magenta_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:magenta_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:oil_barrel": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:orange_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:orange_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:pink_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:pink_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:plant_oil": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:powered_engine_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createdieselgenerators:pumpjack_bearing": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:pumpjack_bearing_b": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:pumpjack_crank": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:pumpjack_head": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:pumpjack_hole": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:purple_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:purple_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:red_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:red_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:sheet_metal_panel": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:white_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:white_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:yellow_cement": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:yellow_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
   },
   "createpropulsion:advanced_tilt_adapter": {
     "maxWaterDepth": 70,
@@ -6860,10 +7444,6 @@
   "eternal_starlight:eclipse_core": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
-  },
-  "eternal_starlight:enchanted_grimstone_bricks": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
   },
   "eternal_starlight:energy_block": {
     "maxWaterDepth": 300,
@@ -8665,10 +9245,6 @@
     "maxWaterDepth": 55,
     "implosionChance": 0.67
   },
-  "eternal_starlight:stellar_rack": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
   "eternal_starlight:stonett": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -10269,6 +10845,10 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "goety:crypt_sarcophagus": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "goety:crypt_stone": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -10416,6 +10996,10 @@
   "goety:deepslate_brazier": {
     "maxWaterDepth": 58,
     "implosionChance": 0.65
+  },
+  "goety:deepslate_sarcophagus": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.56666666
   },
   "goety:deepslate_soul_brazier": {
     "maxWaterDepth": 58,
@@ -11193,6 +11777,10 @@
     "maxWaterDepth": 61,
     "implosionChance": 0.6333333
   },
+  "goety:ominous_sarcophagus": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
   "goety:ominous_statue": {
     "maxWaterDepth": 61,
     "implosionChance": 0.6333333
@@ -11426,6 +12014,14 @@
     "implosionChance": 0.85
   },
   "goety:plushie_10": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "goety:plushie_11": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "goety:plushie_12": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -11725,6 +12321,10 @@
     "maxWaterDepth": 89,
     "implosionChance": 0.46666667
   },
+  "goety:sandstone_sarcophagus": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
   "goety:sculk_converter": {
     "maxWaterDepth": 50,
     "implosionChance": 0.7
@@ -11758,6 +12358,14 @@
     "implosionChance": 0.67
   },
   "goety:sculptured_statue_4": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "goety:sculptured_statue_5": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "goety:sculptured_statue_6": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
   },
@@ -11798,6 +12406,10 @@
     "implosionChance": 0.05
   },
   "goety:shade_pillar": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "goety:shade_sarcophagus": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
@@ -12440,6 +13052,10 @@
   "goety:stone_brazier": {
     "maxWaterDepth": 58,
     "implosionChance": 0.65
+  },
+  "goety:stone_sarcophagus": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
   },
   "goety:stone_soul_brazier": {
     "maxWaterDepth": 58,

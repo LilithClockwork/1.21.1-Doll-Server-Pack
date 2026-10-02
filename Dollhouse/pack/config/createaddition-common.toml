@@ -181,7 +181,7 @@
 #Liquid Blaze Burner
 [liquid_blaze_burner]
 	#Liquid Blaze Burner internal liquid storage capacity (in mB). A value less than 1000 prevents players from refilling with a bucket.
-	# Default: 4000
+	# Default: 1000
 	# Range: > 100
 	liquid_blaze_burner_max_liquid_capacity = 4000
 	#Liquid Blaze Burner internal heat capacity (in ticks).

@@ -465,6 +465,10 @@ file = "config/attributefix/irons_lib/mining_speed.json"
 hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 
 [[files]]
+file = "config/attributefix/irons_lib/projectile_damage.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
 file = "config/attributefix/irons_spellbooks/blood_magic_resist.json"
 hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
 
@@ -930,7 +934,7 @@ hash = "5533867669881ca8279ea1a2da6e2879853d49c6b8463da7205ee87a14183973"
 
 [[files]]
 file = "config/createaddition-common.toml"
-hash = "1f51e5e04074bedb54e1641454cc74d6990bf59e09c5ebdfe1036f7d0f61bfa0"
+hash = "c2486470b6cdf5a9024b9a4fbd512db8746e4186bc067deb4a1bb85ea20beede"
 
 [[files]]
 file = "config/createcybernetics-common.toml"
@@ -1002,7 +1006,7 @@ hash = "154f75418e83d657784c47759d3617c76cb437bfc7ff8a6d4ca491a33d998d31"
 
 [[files]]
 file = "config/emi.css"
-hash = "798ae3ea853ad89a0925075f3dcc1e0a99862ae64e4418bdf15b329bf581cee6"
+hash = "c44f2e5acd81cdd7f520779ba77c9fcee60e7db45fd2d3d33a4bfa122c2c298d"
 
 [[files]]
 file = "config/emi_loot_config.toml"
@@ -1026,7 +1030,7 @@ hash = "f80b6ff0e8ddc9e6116cd555462290081c673e33630b923d6f35977f48e5e078"
 
 [[files]]
 file = "config/eternal_starlight.json"
-hash = "a48018a327ee8a0933199574df44696bc30511618293db67b9d4d1a194ba1cf9"
+hash = "5d296463944446adceb4562a93b15fe3bac63de43e1091d2b9808d8998e9c074"
 
 [[files]]
 file = "config/exmi/enable_config.json"
@@ -1058,7 +1062,7 @@ hash = "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "d7ae4a454e5de1aa25c4968268b9182b5474c43a479f460ef9f52af4e195703f"
+hash = "7380472afe87567e479671e51703561a5db3d6b6848384089845a63875ced0d7"
 
 [[files]]
 file = "config/fancytabsections-client.toml"
@@ -1082,7 +1086,7 @@ hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
 
 [[files]]
 file = "config/figura.json"
-hash = "45d1b9d9bf59fbd6a384fe8a7d1db75f7364276e17819f738c670202be5d4fd4"
+hash = "1776d75e13fd318805dbe1737fcd6bddeb8cc0380380162e4fcc59121da1d1e8"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -1102,7 +1106,7 @@ hash = "e521baea8cde5a275585c7063fa3272b79a303c73e4efb1d509a638914e1299e"
 
 [[files]]
 file = "config/goety/goety-attributes.toml"
-hash = "23bfc085f366b73b48ac1f51cc91e4594a55e8a71fecb0b69de74641ec53bceb"
+hash = "e5797010d49fc2a39d72d183ad7cc4acb918fa7bd39d3f4f7fd7e389afd995b7"
 
 [[files]]
 file = "config/goety/goety-brews.toml"
@@ -1274,11 +1278,11 @@ hash = "43e35f01fceb40ba4689584c447ae842edf22fe86131f30f5108aae55b1b5ca6"
 
 [[files]]
 file = "config/lootr-client.toml"
-hash = "4da5bc00c2cc7db774e16f6905929303bfca802367d49133ba9742a6330238ad"
+hash = "2e0eed967110c4fb2639f778388f5ea64a82781ccf75cdf43f44a971ed9c6b27"
 
 [[files]]
 file = "config/lootr-common.toml"
-hash = "a7158a8acd381687490241e91916fbc3eeb322ed3c905a16b944ecb5379c8d50"
+hash = "c1458266dc73f0f6f3826ef645df97aaed7f23dd68e7bc4d1f63707d359e8e1a"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -1442,7 +1446,7 @@ hash = "7a152440425670427b9d4c30485f79e38be9aa809b7b02e8f7331f249161973d"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "5c4e850cd57d895a3701b80ec6fd01c45a7a0b178c65d8fdf0f3206bd0b122f8"
+hash = "99f24ab67aa2d0dd9df68ee25386c0a39f041886068e608d15c4679f9b96ef54"
 
 [[files]]
 file = "config/switchy.toml"
@@ -1530,11 +1534,11 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "296aceebe8da499ae1dc56b1c70a1f1b2be93dba806cedc2e8ecbce7263d6be6"
+hash = "0a4fb36cdeff95c52fad500f1519beba1226d9a065cc82b620ffcd3ecfc12883"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
@@ -1567,6 +1571,10 @@ hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 [[files]]
 file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "config/yigd.json"
