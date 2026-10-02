@@ -1938,7 +1938,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "62f1b5b5a3c06cb852c27d0a9e2efb5ecc474c99c9bf0419821f6e7449a242af"
+hash = "f47b8d0f4360c8bbc8fc710ad333065b77cd4b9b43ca52439de7ce715215e336"
 metafile = true
 
 [[files]]
@@ -2072,7 +2072,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "f0e7bca98eed4c0747156c8dd9d59ec7e081bf1cb9b900f6139a72107a57f0eb"
+hash = "8913bb244d45ff085d444bd9c0ea236ffb3414a608554766140a208ac973a5a6"
 metafile = true
 
 [[files]]
@@ -2297,7 +2297,7 @@ metafile = true
 
 [[files]]
 file = "mods/knight-lib.pw.toml"
-hash = "44b89d28b77f449c599767c58c2fdcbb2925ae9c4691a4f70462a786e50be35f"
+hash = "620d62d041cca466278240583b6306db154439e692defa4f213154eef9cfea03"
 metafile = true
 
 [[files]]
@@ -2397,7 +2397,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "89b9434e40a39e9a2de633b00d8dac3e1081db7c9632512fbc07e68f0ccbe547"
+hash = "8469008b906929bf02ec5d18c26d9a646008fdd7a8c54e5dedfad44e0fcc4484"
 metafile = true
 
 [[files]]
@@ -2476,7 +2476,7 @@ metafile = true
 
 [[files]]
 file = "mods/starcatcher.pw.toml"
-hash = "45f9ed9befb1e9a167fba07a23a1a0e988c727f5eb166f055155ab21d809a62f"
+hash = "c6cc52822bcb35151b429ec928929c4725ff836eb2337880a0391bb85dbf1e03"
 metafile = true
 
 [[files]]
