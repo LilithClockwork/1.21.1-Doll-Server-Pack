@@ -2063,7 +2063,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deep-seas.pw.toml"
-hash = "96b3a6fcba1cbf8d976211fb2d13f934e0586ed6b80f0f4bed1a4b4ffe9a2a70"
+hash = "62e1817374762eb094263cd6d098760832c28e3848293801f31f86ba248d2219"
 metafile = true
 
 [[files]]
@@ -2438,7 +2438,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "50e7e41a1d53a71b6ce78af1a938ca9aecd0d59c4f9e80241b07e35def36638d"
+hash = "a005cb0430bff04cdd48c20e524e817669997cc35e6da5d2bcdbe41bf70befe6"
 metafile = true
 
 [[files]]
@@ -2507,7 +2507,7 @@ metafile = true
 
 [[files]]
 file = "mods/starcatcher.pw.toml"
-hash = "c6cc52822bcb35151b429ec928929c4725ff836eb2337880a0391bb85dbf1e03"
+hash = "de773365f7f8127b4c0330edd1a5509d40b4a7911d1f545802b9dc3cee52cd36"
 metafile = true
 
 [[files]]
