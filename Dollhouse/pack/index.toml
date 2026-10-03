@@ -1005,6 +1005,10 @@ file = "config/databank-client.toml"
 hash = "458b1021022143ad3213af9bd7ea7ac1b1ef5f10e811ef2df5081719ec5791f5"
 
 [[files]]
+file = "config/dimdoors-config.json5"
+hash = "59d5cb3ebcbaebeac5cd40d4f873fdf7a8d4eb3893c281a93cda7b021612442d"
+
+[[files]]
 file = "config/dungeonsdelight-client-config.toml"
 hash = "f05dc020b97fb3b8a729942cd6d15e0c870f1bc014dc9183281c650d73690d65"
 
@@ -2135,6 +2139,11 @@ metafile = true
 [[files]]
 file = "mods/databank.pw.toml"
 hash = "255fab3281eaf50589f7009c1887b2f9e638a6512e2fab7ffa1a967bf760bfa9"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "6712c8704a5cee8189992a4f5399fb49233d5e47aaedac2dcbfcaf8a818bfa2a"
 metafile = true
 
 [[files]]
